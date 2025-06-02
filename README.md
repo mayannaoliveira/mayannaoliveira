@@ -55,10 +55,10 @@
     <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
     </a>
     <a href="https://tryhackme.com/p/mayannait">
-    <img src="https://img.shields.io/badge/tryhackme-212C42?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/mayannait" alt="tryhackme" />
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/mayannait" alt="tryhackme" />
     </a> 
     <a href="https://academy.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=Hack The Box&logoColor=white&link=https://academy.hackthebox.com/" alt="Hack The Box"/>
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=HackTheBox&logoColor=white&link=https://academy.hackthebox.com/" alt="Hack The Box"/>
     </a>
     <a href="https://www.codewars.com/users/mayannaoliveira">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/mayannaoliveira" alt="Codewars"/>
