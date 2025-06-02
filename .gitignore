@@ -1,0 +1,9 @@
+# Ignorar pastas específicas
+.qodo/
+.vscode/
+.obsidian/
+
+# Ignorar arquivos dentro dessas pastas (opcional, mas redundante)
+.qodo/*
+.vscode/*
+.obsidian/*
