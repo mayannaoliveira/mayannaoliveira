@@ -9,7 +9,7 @@
 - 👟 Nas horas vagas gosto de ler, andar e estudar programação.
 - 🪪 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
-- 💡 Acesse o <a href="https://www.credly.com/users/mayannaoliveira/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=codewars&logoColor=white&link=https://www.credly.com/users/mayannaoliveira/badges" alt="Credly" /></a> veja todos os emblemas que já conquitei.
+- 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
 
 <!-- Skills em Programação -->
