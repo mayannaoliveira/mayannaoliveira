@@ -4,9 +4,9 @@
 </br>
 
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
-- 💻 Trabalho com TI há mais de 10 anos.
+- 🧑‍💻 Trabalho com TI há mais de 10 anos.
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
-- 🪪 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
+- 📎 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
 - 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
@@ -66,7 +66,7 @@
     </a>
 </p>
 
-### 🐱 Atividade no GitHub
+### :octocat: Atividade no GitHub
 
 <!-- awesome github stats -->
 <div class="row" align="center">
@@ -92,7 +92,21 @@
 
 <!-- holopin -->
 <details close>
-  <summary> <b> 🦖 Holopin Badges </b> </summary>
+  <summary> <b> :octocat: Profile Trophy </b> </summary>
+</br>
+<p align="center">
+  ​<a href="https://github-profile-trophy.vercel.app/?username=mayannaoliveira">
+    <img alt="-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira-ma&theme=tokyonight"/>
+  </a>
+    ​<a href="https://github-profile-trophy.vercel.app/?username=mayannaoliveira">
+    <img alt="-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira-ma&theme=tokyonight"/>
+  </a>
+</p>
+</details>
+
+<!-- holopin -->
+<details close>
+  <summary> <b> 🐉 Holopin Badges </b> </summary>
 </br>
 <p align="center">
   ​<a href="https://holopin.io/@mayannaoliveira">
@@ -103,7 +117,7 @@
 
 <!-- thm e cw -->
 <details close>
-  <summary> <b> 🎖 Codewar e TryHackMe </b> </summary>
+  <summary> <b> ⚔️ Codewar e TryHackMe </b> </summary>
 </br>
 <p align="center">
   ​<a href="https://www.codewars.com/users/mayannaoliveira">
@@ -118,7 +132,7 @@
  
  <!-- discord -->
  <details close>
-  <summary> <b> 📱 Perfil no Discord </b> </summary>
+  <summary> <b> 🗨️ Perfil no Discord </b> </summary>
 </br>
 <p align="center">
   ​<a href="https://discord.com/">
