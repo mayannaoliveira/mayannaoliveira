@@ -9,7 +9,7 @@
 - 📎 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
 - 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
-- 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
+- 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [HackerRank](https://www.hackerrank.com/profile/mayannait), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
 </br>
 
 <!-- Skills em Programação -->
@@ -63,6 +63,9 @@
     </a>
     <a href="https://www.codewars.com/users/mayannaoliveira">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/mayannaoliveira" alt="Codewars"/>
+    </a>
+     <a href="https://www.hackerrank.com/profile/mayannait">
+    <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
     </a>
 </p>
 
