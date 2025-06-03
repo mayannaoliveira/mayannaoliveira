@@ -89,44 +89,48 @@
   </br> 
   <i>Code, Coffee, Sleep and Repeat!</i>
   </p>
-
-<!-- holopin -->
-<details close>
-  <summary> <b> :octocat: Profile Trophy </b> </summary>
+ 
+ <details close>
+  <summary> <b> :octocat: Gráfico de Atividade </b> </summary>
 </br>
-<p align="center">
-  ​<a href="https://github-profile-trophy.vercel.app/?username=mayannaoliveira">
-    <img alt="-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira-ma&theme=tokyonight"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=github" alt="github-readme-activity-graph"  />
+</div>
+</details>
+
+<details close>
+  <summary> <b> :octocat: Pontuações </b> </summary>
+</br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="github-profile-trophy"  />
+</div>
+</details>
+ 
+ <details close>
+  <summary> <b> :octocat: Contribuições </b> </summary>
+</br>
+  ​<a href="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira">
+    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira"/>
   </a>
-    ​<a href="https://github-profile-trophy.vercel.app/?username=mayannaoliveira">
-    <img alt="-profile-trophy" src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira-ma&theme=tokyonight"/>
-  </a>
-</p>
 </details>
 
 <!-- holopin -->
 <details close>
   <summary> <b> 🐉 Holopin Badges </b> </summary>
 </br>
-<p align="center">
+ 
   ​<a href="https://holopin.io/@mayannaoliveira">
     <img alt="holopin" src="https://holopin.me/mayannaoliveira" />
   </a>
-</p>
 </details>
 
 <!-- thm e cw -->
 <details close>
-  <summary> <b> ⚔️ Codewar e TryHackMe </b> </summary>
+  <summary> <b> ⚔️ Codewars </b> </summary>
 </br>
 <p align="center">
   ​<a href="https://www.codewars.com/users/mayannaoliveira">
-    <img alt="codewar" src="https://www.codewars.com/users/mayannaoliveira/badges/small"/> 
-    </br>
-  </a>
-    ​<a href="https://www.codewars.com/users/mayannaoliveira">
-    <img alt="thm" src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" style="width:29%"/>
-  </a>
+    <img alt="codewar" src="https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true"/>
 </p>
 </details>
  
