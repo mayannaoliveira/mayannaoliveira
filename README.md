@@ -1,16 +1,16 @@
 <a href="https://github.com/mayannaoliveira">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=viridescent"/>
   </a>
+</br>
 
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
 - 💻 Trabalho com TI há mais de 10 anos.
-- 📍 Moro em Salvador-BA.
-- 🀄 Eu gosto de jogar Mahjong Riichi, Shogi, Xadrez e SNES.
-- 👟 Nas horas vagas gosto de ler, andar e estudar programação.
+- 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
 - 🪪 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
 - 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
+</br>
 
 <!-- Skills em Programação -->
 <p align="center">
@@ -18,6 +18,7 @@
     <img alt="programming" src="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8"/>
   </a>
 </p>
+</br>
 
 ### 🤝 Redes Sociais
 
@@ -110,7 +111,7 @@
     </br>
   </a>
     ​<a href="https://www.codewars.com/users/mayannaoliveira">
-    <img alt="thm" src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" style="width:59%"/>
+    <img alt="thm" src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" style="width:29%"/>
   </a>
 </p>
 </details>
@@ -125,3 +126,10 @@
   </a>
 </p>
 </details>
+
+---
+
+<p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
+</br>
+    <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&color=yellow" alt="Profile views" /> 
+</p>
