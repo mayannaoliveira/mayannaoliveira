@@ -84,10 +84,10 @@
 <!-- https://www.streamlinehq.com/icons/flex-pop -->
 <p align="center">
   ​<a href="https://www.streamlinehq.com/icons/flex-pop">
-    <img alt="pusheen" src="./asserts/code.png" style="width:7%"/>
-    <img alt="pusheen" src="./asserts/coffee.png" style="width:7%"/>  
-    <img alt="pusheen" src="./asserts/sleep.png" style="width:7%"/>  
-    <img alt="pusheen" src="./asserts/repeat.png" style="width:7%"/>
+    <img alt="pusheen" src="./asserts/code.png" style="width:36px"/>
+    <img alt="pusheen" src="./asserts/coffee.png" style="width:35px"/>  
+    <img alt="pusheen" src="./asserts/sleep.png" style="width:35px"/>  
+    <img alt="pusheen" src="./asserts/repeat.png" style="width:35px"/>
   </a>
   </br> 
   <i>Code, Coffee, Sleep and Repeat!</i>
@@ -119,7 +119,7 @@
 
 <!-- holopin -->
 <details close>
-  <summary> <b> 🐉 Holopin Badges </b> </summary>
+  <summary> <b> :t-rex: Holopin Badges </b> </summary>
 </br>
  
   ​<a href="https://holopin.io/@mayannaoliveira">
