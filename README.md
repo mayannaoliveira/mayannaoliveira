@@ -88,14 +88,6 @@
   <i>Code, Coffee, Sleep and Repeat!</i>
   </p>
  
- <details close>
-  <summary> <b> :octocat: Gráfico de Atividade </b> </summary>
-</br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=github" alt="github-readme-activity-graph"  />
-</div>
-</details>
-
 <details close>
   <summary> <b> :octocat: Pontuações </b> </summary>
 </br>
@@ -116,8 +108,9 @@
   <summary> <b> :octocat: Contribuições </b> </summary>
 </br>
   ​<a href="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira">
-    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira"/>
+    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:430px"/>
   </a>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=github" alt="github-readme-activity-graph" style="width:500px"/>
 </details>
 
 <!-- holopin -->
@@ -146,7 +139,7 @@
 </br>
 <p align="center">
   ​<a href="https://discord.com/">
-    <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:70%"/>
+    <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:300px"/>
   </a>
 </p>
 </details>
@@ -155,5 +148,5 @@
 
 <p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
 </br>
-    <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&color=yellow" alt="Profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&color=yellow" alt="Profile views" style="width:36px/> 
 </p>
