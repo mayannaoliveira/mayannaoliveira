@@ -100,7 +100,7 @@
   <summary> <b> :octocat: Repository Contribution</b> </summary>
 </br>
   ​<a href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira">
-    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira" style="width:40%"/>
+    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&hide=B&theme=onedark" style="width:45%"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:40%"/>
   </a>
 </details>
