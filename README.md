@@ -89,10 +89,10 @@
   </p>
  
 <details close>
-  <summary> <b> :octocat: Pontuações </b> </summary>
+  <summary> <b> :octocat: Profile Trophy </b> </summary>
 </br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="github-profile-trophy"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=onedark" alt="github-profile-trophy"  />
 </div>
 </details>
 
@@ -110,7 +110,7 @@
   ​<a href="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira">
     <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:430px"/>
   </a>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=github" alt="github-readme-activity-graph" style="width:500px"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:500px"/>
 </details>
 
 <!-- holopin -->
