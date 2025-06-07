@@ -1,8 +1,3 @@
-<a href="https://github.com/mayannaoliveira">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=viridescent"/>
-  </a>
-</br>
-
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
 - 🧑‍💻 Trabalho com TI há mais de 10 anos.
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
@@ -84,10 +79,10 @@
 <!-- https://www.streamlinehq.com/icons/flex-pop -->
 <p align="center">
   ​<a href="https://www.streamlinehq.com/icons/flex-pop">
-    <img alt="pusheen" src="./asserts/code.png" style="width:36px"/>
-    <img alt="pusheen" src="./asserts/coffee.png" style="width:35px"/>  
-    <img alt="pusheen" src="./asserts/sleep.png" style="width:35px"/>  
-    <img alt="pusheen" src="./asserts/repeat.png" style="width:35px"/>
+    <img alt="code.png" src="./asserts/code.png" style="width:36px"/>
+    <img alt="coffee.png" src="./asserts/coffee.png" style="width:35px"/>  
+    <img alt="sleep.png" src="./asserts/sleep.png" style="width:35px"/>  
+    <img alt="repeat.png" src="./asserts/repeat.png" style="width:35px"/>
   </a>
   </br> 
   <i>Code, Coffee, Sleep and Repeat!</i>
@@ -108,7 +103,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="github-profile-trophy"  />
 </div>
 </details>
- 
+
+  <details close>
+  <summary> <b> :octocat: Repository Contribution Stats Card </b> </summary>
+</br>
+  ​<a href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira">
+    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira"/>
+  </a>
+</details>
+
  <details close>
   <summary> <b> :octocat: Contribuições </b> </summary>
 </br>
