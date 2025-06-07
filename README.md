@@ -133,10 +133,10 @@
  
  <!-- discord -->
  <details close>
-  <summary> <b> 🗨️ Perfil no Discord </b> </summary>
+  <summary> <b> 🗨️ Discord </b> </summary>
 </br>
 <p align="center">
-  ​<a href="https://discord.com/">
+  ​<a href="https://discord-readme-card.ezzud.fr/?userid=728043170226503721">
     <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:300px"/>
   </a>
 </p>
