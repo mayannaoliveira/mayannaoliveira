@@ -97,20 +97,18 @@
 </details>
 
   <details close>
-  <summary> <b> :octocat: Repository Contribution Stats Card </b> </summary>
+  <summary> <b> :octocat: Repository Contribution</b> </summary>
 </br>
   ​<a href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira">
-    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira"/>
+    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira" style="width:40%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:40%"/>
   </a>
 </details>
 
  <details close>
-  <summary> <b> :octocat: Contribuições </b> </summary>
+  <summary> <b> :octocat: Stats </b> </summary>
 </br>
-  ​<a href="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira">
-    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:430px"/>
-  </a>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:500px"/>
+    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:50%"/>
 </details>
 
 <!-- holopin -->
