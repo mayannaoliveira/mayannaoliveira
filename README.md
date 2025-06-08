@@ -88,6 +88,9 @@
   </br> 
   <i>Code, Coffee, Sleep and Repeat!</i>
   </p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
  
 <details close>
   <summary> <b> :octocat: Profile Trophy </b> </summary>
