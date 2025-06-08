@@ -5,6 +5,7 @@
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
 - 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [HackerRank](https://www.hackerrank.com/profile/mayannait), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
+- 💻 Envie sua dúvida sobre programação ou QA no [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/16884312/mayanna).
 </br>
 
 <!-- Skills em Programação -->
@@ -140,6 +141,15 @@
     <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:300px"/>
   </a>
 </p>
+</details>
+
+<details close>
+<summary> <b> :computer: Stack Overflow </b> </summary>
+</br>
+<div align="center">
+<a href="https://stackoverflow.com/users/16884312/mayanna">
+<img src="https://stackoverflow.com/users/flair/16884312.png?theme=dark" width="208" height="58" alt="Mayanna at Stack Overflow" title="Mayanna at Stack Overflow"></a>
+</div>
 </details>
 
 ---
