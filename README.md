@@ -93,6 +93,11 @@
   <summary> <b> :octocat: GitHub Activities </b> </summary>
 </br>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/mayannaoliveira/testing-readme/pull/3) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+2. 🔒 Closed issue [#1](https://github.com/mayannaoliveira/testing-readme/issues/1) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+3. 🎉 Merged PR [#2](https://github.com/mayannaoliveira/testing-readme/pull/2) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+4. 💪 Opened PR [#2](https://github.com/mayannaoliveira/testing-readme/pull/2) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+5. ❗ Opened issue [#1](https://github.com/mayannaoliveira/testing-readme/issues/1) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
 <!--END_SECTION:activity-->
 </details>
  
