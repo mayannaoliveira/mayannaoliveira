@@ -93,7 +93,7 @@
   <summary> <b> :octocat: GitHub Activities </b> </summary>
 </br>
 <!--START_SECTION:activity-->
-  
+1. 💪 Opened PR [#3](https://github.com/mayannaoliveira/testing-readme/pull/3) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
 <!--END_SECTION:activity-->
 </details>
  
