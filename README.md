@@ -93,7 +93,7 @@
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
 </br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/mayannaoliveira/testing-readme/pull/3) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-2951555016) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 </details>
  
