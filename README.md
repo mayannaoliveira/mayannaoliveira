@@ -63,6 +63,9 @@
      <a href="https://www.hackerrank.com/profile/mayannait">
     <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
     </a>
+  <a href="https://www.codechef.com/users/tower_boat_88">
+    <img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
+    </a>
 </p>
 
 ### :octocat: Atividade no GitHub
