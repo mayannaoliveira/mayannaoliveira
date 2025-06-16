@@ -117,11 +117,11 @@
   </a>
 </details>
 
- <details close>
+ <!-- details close>
   <summary> <b> :octocat: GitHub Stats </b> </summary>
 </br>
     <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:50%"/>
-</details>
+</details -->
 
 <!-- holopin -->
 <details close>
@@ -144,7 +144,7 @@
 </details>
  
  <!-- discord -->
- <details close>
+ <!-- details close>
   <summary> <b> 🗨️ Discord </b> </summary>
 </br>
 <p align="center">
@@ -152,16 +152,16 @@
     <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:300px"/>
   </a>
 </p>
-</details>
+ </details -->
 
-<details close>
+<!--details close>
 <summary> <b> :computer: Stack Overflow </b> </summary>
 </br>
 <div align="center">
 <a href="https://stackoverflow.com/users/16884312/mayanna">
 <img src="https://stackoverflow.com/users/flair/16884312.png?theme=dark" width="208" height="58" alt="Mayanna at Stack Overflow" title="Mayanna at Stack Overflow"></a>
 </div>
-</details>
+</details -->
 
 ---
 
