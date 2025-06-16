@@ -79,10 +79,9 @@
   </div>
 </div>
 
----
 
 <!-- https://www.streamlinehq.com/icons/flex-pop -->
-<p align="center">
+<!-- p align="center">
   ​<a href="https://www.streamlinehq.com/icons/flex-pop">
     <img alt="code.png" src="./asserts/code.png" style="width:36px"/>
     <img alt="coffee.png" src="./asserts/coffee.png" style="width:35px"/>  
@@ -91,7 +90,8 @@
   </a>
   </br> 
   <i>Code, Coffee, Sleep and Repeat!</i>
-  </p>
+  </p -->
+</br>
 
 <details close>
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
