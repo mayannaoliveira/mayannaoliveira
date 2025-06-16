@@ -96,7 +96,7 @@
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
 </br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-2951555016) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 💪 Opened PR [#1](https://github.com/peanuts735/training-repository/pull/1) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity-->
 </details>
  
