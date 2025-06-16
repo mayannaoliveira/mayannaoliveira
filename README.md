@@ -79,25 +79,12 @@
   </div>
 </div>
 
-
-<!-- https://www.streamlinehq.com/icons/flex-pop -->
-<!-- p align="center">
-  ​<a href="https://www.streamlinehq.com/icons/flex-pop">
-    <img alt="code.png" src="./asserts/code.png" style="width:36px"/>
-    <img alt="coffee.png" src="./asserts/coffee.png" style="width:35px"/>  
-    <img alt="sleep.png" src="./asserts/sleep.png" style="width:35px"/>  
-    <img alt="repeat.png" src="./asserts/repeat.png" style="width:35px"/>
-  </a>
-  </br> 
-  <i>Code, Coffee, Sleep and Repeat!</i>
-  </p -->
 </br>
 
 <details close>
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
 </br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/peanuts735/training-repository/pull/1#issuecomment-2975038524) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity-->
 </details>
  
@@ -118,12 +105,6 @@
   </a>
 </details>
 
- <!-- details close>
-  <summary> <b> :octocat: GitHub Stats </b> </summary>
-</br>
-    <img alt="contribuicoes" src="https://stats.dooboo.io/api/github-stats?login=mayannaoliveira" style="width:50%"/>
-</details -->
-
 <!-- holopin -->
 <details close>
   <summary> <b> :t-rex: Holopin Badges </b> </summary>
@@ -143,26 +124,6 @@
     <img alt="codewar" src="https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true"/>
 </p>
 </details>
- 
- <!-- discord -->
- <!-- details close>
-  <summary> <b> 🗨️ Discord </b> </summary>
-</br>
-<p align="center">
-  ​<a href="https://discord-readme-card.ezzud.fr/?userid=728043170226503721">
-    <img alt=" " src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" style="width:300px"/>
-  </a>
-</p>
- </details -->
-
-<!--details close>
-<summary> <b> :computer: Stack Overflow </b> </summary>
-</br>
-<div align="center">
-<a href="https://stackoverflow.com/users/16884312/mayanna">
-<img src="https://stackoverflow.com/users/flair/16884312.png?theme=dark" width="208" height="58" alt="Mayanna at Stack Overflow" title="Mayanna at Stack Overflow"></a>
-</div>
-</details -->
 
 ---
 
