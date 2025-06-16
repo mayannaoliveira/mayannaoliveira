@@ -3,7 +3,7 @@
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
 - 📎 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
-- 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei.
+- 💡 Acesse o [Credly](credly-badges.md) veja todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [HackerRank](https://www.hackerrank.com/profile/mayannait), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
 - 💻 Envie sua dúvida sobre programação ou QA no [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/16884312/mayanna).
 </br>
