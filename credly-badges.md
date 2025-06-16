@@ -6,3 +6,4 @@ Cursos realizados onde as badges foram registradas no Credly.
 <!-- START CREDLY BADGES -->
 <!-- END CREDLY BADGES -->
 
+_Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei._ 
