@@ -97,7 +97,7 @@
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
 </br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/peanuts735/training-repository/pull/1) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+1. 🗣 Commented on [#1](https://github.com/peanuts735/training-repository/pull/1#issuecomment-2975038524) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity-->
 </details>
  
