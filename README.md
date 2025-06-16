@@ -101,6 +101,8 @@
 </br>
   ​<a href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira">
     <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&hide=B&theme=onedark" style="width:45%"/>
+    </a>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:40%"/>
   </a>
 </details>
