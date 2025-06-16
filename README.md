@@ -1,3 +1,4 @@
+
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
 - 🧑‍💻 Trabalho com TI há mais de 10 anos.
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
@@ -104,7 +105,7 @@
   <summary> <b> :octocat: GitHub Profile Trophy </b> </summary>
 </br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=onedark" alt="github-profile-trophy"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&column=3&margin-w=5&margin-h=5&theme=onedark" alt="github-profile-trophy"  />
 </div>
 </details>
 
