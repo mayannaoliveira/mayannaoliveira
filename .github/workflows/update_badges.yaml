@@ -21,5 +21,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_BRANCH: "main"
-          README_FILE: "README.md"
+          README_FILE: "credly-badges.md" # "README.md"
           COMMIT_MESSAGE: "Updated README with Credly badges"
