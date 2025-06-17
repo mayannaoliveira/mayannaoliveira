@@ -2,7 +2,7 @@ name: Update Credly Badges
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
+    - cron: "*/30 * * * *"
 
 jobs:
   update-readme:
@@ -20,6 +20,6 @@ jobs:
           GITHUB_API_URL: "https://api.github.com"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPO: ${{ github.repository }}
-          GITHUB_BRANCH: "main"
-          README_FILE: "credly-badges.md" # "README.md"
-          COMMIT_MESSAGE: "Updated README with Credly badges"
+          GITHUB_BRANCH: "master"
+          README_FILE: "credly-badges.md"
+          COMMIT_MESSAGE: "UUpdatedcredly-badge.md with Credly badges"
