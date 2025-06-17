@@ -135,7 +135,7 @@
 <p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
 </br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Profile%20views&color=pink&style=flat" alt="mayannaoliveira" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Profile%20views&color=red&style=flat" alt="mayannaoliveira" /> </p>
 
 
 
