@@ -22,4 +22,4 @@ jobs:
           GITHUB_REPO: ${{ github.repository }}
           GITHUB_BRANCH: "master"
           README_FILE: "credly-badges.md"
-          COMMIT_MESSAGE: "UUpdatedcredly-badge.md with Credly badges"
+          COMMIT_MESSAGE: "Updated credly-badge.md with Credly badges"
