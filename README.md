@@ -1,4 +1,3 @@
-
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
 - 🧑‍💻 Trabalho com TI há mais de 10 anos.
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
@@ -86,9 +85,9 @@
 </br>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
+<img src="https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </details>
  
 <details close>
