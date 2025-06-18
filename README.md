@@ -121,11 +121,21 @@
 
 <!-- codewars -->
 <details close>
-  <summary> <b> ⚔️ Codewars </b> </summary>
+  <summary> <b> ⚔️ Codewars Stats</b> </summary>
 </br>
 <p align="center">
   ​<a href="https://www.codewars.com/users/mayannaoliveira">
     <img alt="codewar" src="https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true"/>
+</p>
+</details>
+
+<!-- duolingo -->
+<details close>
+  <summary> <b> 🦜 Duolingo Stats</b> </summary>
+</br>
+<p align="center">
+  ​<a href="https://www.duolingo.com/profile/mayannait">
+    <img alt="" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true"/>
 </p>
 </details>
 
