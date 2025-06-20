@@ -16,7 +16,7 @@
 </p>
 </br>
 
-### 🤝 Redes Sociais
+### :handshake: Redes Sociais
 
 <p align="center">
     <!-- Discord  -->
@@ -137,6 +137,15 @@
   ​<a href="https://www.duolingo.com/profile/mayannait">
     <img alt="" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true"/>
 </p>
+</details>
+
+<details close>
+  <summary> <b> :paw_prints: Git Animals Farm</b> </summary
+<div align="center">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mayannaoliveira&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/mayannaoliveira" width="600" height="300" alt="git-animals"/>
+</a>
+</div>
 </details>
 
 ---
