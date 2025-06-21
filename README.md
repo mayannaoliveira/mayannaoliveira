@@ -84,6 +84,8 @@
   <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
 </br>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+2. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity-->
   <div align="center">
 <img alt="GH-Acivity" src="https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
