@@ -81,14 +81,14 @@
 </br>
 
 <details close>
-  <summary> <b> :octocat: GitHub Recent Activity </b> </summary>
+  <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
 </br>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 2. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity--> 
   
-_Para mais informações gráficas acesse minha páginade [Atividades do GitHub](github-activity.md)_
+_Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md)_
 </details>
  
 <details close>
@@ -97,17 +97,6 @@ _Para mais informações gráficas acesse minha páginade [Atividades do GitHub]
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&column=3&margin-w=5&margin-h=5&theme=onedark" alt="github-profile-trophy"  />
 </div>
-</details>
-
-  <details close>
-  <summary> <b> :octocat: GitHub Repository Contribution</b> </summary>
-</br>
-  ​<a href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira">
-    <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&hide=B&theme=onedark" style="width:45%"/>
-    </a>
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=merko" alt="github-readme-activity-graph" style="width:40%"/>
-  </a>
 </details>
 
 <!-- holopin -->
