@@ -1,5 +1,5 @@
 ## 🏅 Credly Badges
-Cursos realizados onde as badges foram registradas no Credly.
+Cursos realizados onde as badges foram registradas no Credly[^1].
 
 <!-- START CREDLY BADGES -->
 [![Dremio Verified Data Analyst](https://images.credly.com/size/80x80/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob)](https://www.credly.com/badges/2325b0a6-e978-4cf9-895b-63fec926b837)
@@ -37,3 +37,7 @@ Cursos realizados onde as badges foram registradas no Credly.
 [![Certifications](https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
 
 _Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei._ 
+
+[^1]: Badges geradas manualmente através do [Readme Credly Badges][credly-badges].
+
+[credly-badges]:https://github.com/jd-35656/readme-credly-badges#inputs
