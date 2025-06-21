@@ -1,20 +1,20 @@
 name: Update Credly Badges
-
 on:
-  workflow_dispatch:  # Acionamento manual via interface do GitHub ou API
-
+  workflow_dispatch:  # Acionamento manual
 jobs:
   update-readme:
     name: Update README with Credly badges
     runs-on: ubuntu-latest
-
     steps:
       - name: Update Badges in README
         uses: jd-35656/readme-credly-badges@v1
         with:
-          credly_username: "mayannaoliveira"
-          badge_size: "80x80"
+          credly_username: 'mayannaoliveira'
+          badge_size: '150x150'
+          badge_sort_by: 'issued'
+          github_api_url: 'https://api.github.com'
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_branch: "master"
-          readme_file: "credly-badges.md"
-          commit_message: "Update Credly badges"
+          github_repo: ${{ github.repository }}
+          github_branch: 'master'
+          readme_file: 'credly-badges.md'
+          commit_message: 'Updated README with Credly badges'
