@@ -9,7 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
@@ -19,3 +18,5 @@ jobs:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
+          github_branch: "master"
+          readme_file: "credly-badges.md"
