@@ -1,4 +1,4 @@
-## Atividades no GitHub
+## :octocat: Atividades no GitHub
 Estatísticas com minhas atividades e contribuições no GitHub.
 
 <div align="center">
@@ -6,6 +6,7 @@ Estatísticas com minhas atividades e contribuições no GitHub.
   <img alt="GH_Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=github-compact&hide_border=false"/>
   <img alt=" Repository Contribution Stats Card" src="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&hide=B&theme=onedark"/>
   <img alt="gh_immortal" src="https://github-immortality.vercel.app/api?username=mayannaoliveira"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&column=3&margin-w=5&margin-h=5&theme=onedark" alt="github-profile-trophy"/>
   </div>
 
 <!--START_SECTION:activity-->
