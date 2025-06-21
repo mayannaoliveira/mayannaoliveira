@@ -91,14 +91,6 @@
 _Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md)_
 </details>
  
-<details close>
-  <summary> <b> :octocat: GitHub Profile Trophy </b> </summary>
-</br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&column=3&margin-w=5&margin-h=5&theme=onedark" alt="github-profile-trophy"  />
-</div>
-</details>
-
 <!-- holopin -->
 <details close>
   <summary> <b> :t-rex: Holopin Badges </b> </summary>
