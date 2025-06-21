@@ -86,8 +86,9 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 2. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
-<!--END_SECTION:activity-->  
-_Para mais informações gráficas acesse minha páginade [Atividades do GitHub](github-activity.md)
+<!--END_SECTION:activity--> 
+  
+_Para mais informações gráficas acesse minha páginade [Atividades do GitHub](github-activity.md)_
 </details>
  
 <details close>
