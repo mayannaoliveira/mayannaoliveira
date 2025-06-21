@@ -68,7 +68,7 @@
     </a>
 </p>
 
-### :octocat: Atividade no GitHub
+### :octocat: Estatísticas do GitHub
 
 <!-- awesome github stats -->
 <div class="row" align="center">
@@ -87,8 +87,10 @@
 1. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 2. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity--> 
-  
-_Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md)_
+
+</br>
+
+_Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md)._
 </details>
  
 <!-- holopin -->
