@@ -19,4 +19,4 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
           github_branch: "master"
-          readme_file: "credly-badges.md"
+          readme_file: "github-activity.md"
