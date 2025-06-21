@@ -34,7 +34,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Machine Learning with Python - Level 1](https://images.credly.com/size/80x80/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620)
 <!-- END CREDLY BADGES -->
 
-[![Certifications](https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)
+<!--[![Certifications](https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)-->
 
 _Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja todos os emblemas que já conquitei._ 
 
