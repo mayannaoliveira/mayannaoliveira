@@ -88,9 +88,8 @@
 2. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity--> 
 
-</br>
 
-_Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md)._
+<sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
 </details>
  
 <!-- holopin -->
