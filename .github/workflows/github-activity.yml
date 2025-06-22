@@ -18,5 +18,3 @@ jobs:
           COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
-          github_branch: "master"
-          readme_file: "github-activity.md"
