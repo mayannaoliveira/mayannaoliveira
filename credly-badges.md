@@ -1,6 +1,8 @@
 ## 🏅 Credly Badges
 Cursos realizados onde as badges foram registradas no Credly[^1].
 
+<div align="center">
+
 <!-- START CREDLY BADGES -->
 [![Dremio Verified Data Analyst](https://images.credly.com/size/80x80/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob)](https://www.credly.com/badges/2325b0a6-e978-4cf9-895b-63fec926b837)
 [![Dremio Verified Lakehouse Associate](https://images.credly.com/size/80x80/images/12243391-8d11-4265-93b3-c82d8479f681/blob)](https://www.credly.com/badges/5c67306e-d2eb-4de7-9646-c22d15f2ff32)
@@ -33,6 +35,8 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Data Science Foundations - Level 1](https://images.credly.com/size/80x80/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob)](https://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2)
 [![Machine Learning with Python - Level 1](https://images.credly.com/size/80x80/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](https://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620)
 <!-- END CREDLY BADGES -->
+
+</div>
 
 <!--[![Certifications](https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=dark)](https://github.com/mechdeveloper/github-readme-widgets)-->
 
