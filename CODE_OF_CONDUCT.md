@@ -1,4 +1,4 @@
-## Código de Conduta
+## ⚖️ Código de Conduta
 
 Por favor caso queira dar usar meu perfil peço que após o fork remova meu nome e dados.
 
@@ -6,7 +6,7 @@ Por favor caso queira dar usar meu perfil peço que após o fork remova meu nome
 2. Remover meu nome e dados.
 3. Dar uma estrela.
 
-## Code of Conduct
+## ⚖️ Code of Conduct
 
 Please, remove my name and data after fork my profíle. 
 
