@@ -5,7 +5,7 @@
 - 📧 Entre em contato através do email `mayannait@gmail.com`.
 - 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira) ou minha [página](credly-badges.md) com todos os emblemas que já conquitei.
 - 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [HackerRank](https://www.hackerrank.com/profile/mayannait), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
-- 💻 Envie sua dúvida sobre programação ou QA no [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/16884312/mayanna).
+- 💻 Envie sua dúvida sobre programação ou QA no [StackOverflow](https://stackoverflow.com/users/16884312/mayanna).
 </br>
 
 <!-- Skills em Programação -->
@@ -47,7 +47,7 @@
      <a href="https://github.com/mayannaoliveira">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>
     </a>
-    <!-- stackoverflow -->
+    <!-- Stackoverflow -->
      <a href="https://stackoverflow.com/users/16884312/mayanna">
     <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
     </a>
