@@ -108,7 +108,7 @@
 </br>
 <p align="center">
   ​<a href="https://www.codewars.com/users/mayannaoliveira">
-    <img alt="codewar" src="https://github.r2v.ch/codewars?user=mayannaoliveira&top_languages=true"/>
+    <img alt="codewar" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=%23b362ff&theme=default"/>
 </p>
 </details>
 
