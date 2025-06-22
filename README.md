@@ -116,10 +116,12 @@
 <details close>
   <summary> <b> :bird: Duolingo Stats</b> </summary>
 </br>
-<p align="center">
+<div align="center">
   ​<a href="https://www.duolingo.com/profile/mayannait">
     <img alt="" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true"/>
-</p>
+
+<sup> :smile: Confira o meu progresso no Duolingo!</sup>
+  </div>
 </details>
 
 <details close>
