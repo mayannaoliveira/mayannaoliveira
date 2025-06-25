@@ -18,6 +18,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: centrumek/duolingo-readme-stats@main
         with:
+          SHOW_STREAK_TIMEZONE: true
           DUOLINGO_USER_ID: mayannait
           COMMIT_EMAIL: mayannait@gmail.com
           COMMIT_MSG: 'chore(duolingo): [NO-REF] Update duolingo stats 💬'
