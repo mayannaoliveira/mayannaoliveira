@@ -16,4 +16,4 @@ jobs:
       - uses: centrumek/duolingo-readme-stats@main
         with:
           DUOLINGO_USER_ID: mayannait
-          # ADVANCED_TOKEN_JWT: <Your duolingo.com JWT token>
+          SHOW_STREAK_TIMEZONE: true
