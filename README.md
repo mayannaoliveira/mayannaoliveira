@@ -121,6 +121,9 @@
   ​<a href="https://www.duolingo.com/profile/mayannait">
     <img alt="" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true"/>
 
+<!--START_SECTION:duolingoStats-->
+<!--END_SECTION:duolingoStats-->
+
 <sup> :smile: Confira o meu progresso no Duolingo!</sup>
   </div>
 </details>
