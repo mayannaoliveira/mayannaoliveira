@@ -128,6 +128,7 @@
   </div>
 </details>
 
+<!-- Git Animals-->
 <details close>
   <summary> <b> :paw_prints: Git Animals Farm</b> </summary
 <div align="center">
@@ -136,6 +137,16 @@
 </a>
 </div>
 </details>
+
+<details close>
+  <summary> <b> :clock10: Wakatime </b> </summary
+<div align="center">
+<a href="">
+<img src="" alt="wakatikme"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</a>
+</div>
 
 ---
 
