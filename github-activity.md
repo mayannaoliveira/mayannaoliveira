@@ -12,6 +12,6 @@
 <!-- https://github.com/hyochan/github-stats --->  
 <img src="https://stats.hyo.dev/api/github-stats-advanced?login=mayannaoliveira" alt="github-stats-advanced"/>
 <img src="https://stats.hyo.dev/api/github-trophies?login=mayannaoliveira" alt="github-profile-trophy"/>
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats --->
-<img src="https://streak-stats.demolab.com?user=mayannaoliveira&theme=dracula&hide_border=true&short_numbers=true&mode=weekly&hide_total_contributions=true" alt="Github Readme Streak Stats"/>
+<!-- https://github.com/Jurredr/github-widgetbox --->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=darkmode" alt="Github Readme Streak Stats"/>
 </div>
