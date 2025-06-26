@@ -121,6 +121,7 @@
 <p align="center">
 ​<a href="https://www.codewars.com/users/mayannaoliveira">
 <img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default"/>
+  </br>
 <img alt="codewars" src="https://www.codewars.com/users/mayannaoliveira/badges/large"/>
 </p>
 </details>
