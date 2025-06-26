@@ -124,7 +124,6 @@
 <!--START_SECTION:duolingoStats-->
 <!--END_SECTION:duolingoStats-->
 
-<sup> :smile: Confira o meu progresso no Duolingo!</sup>
   </div>
 </details>
 
