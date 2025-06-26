@@ -1,3 +1,4 @@
+<!-- INTRODUÇÃO -->
 - 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
 - 🧑‍💻 Trabalho com TI há mais de 10 anos.
 - 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
@@ -8,81 +9,90 @@
 - 💻 Envie sua dúvida sobre programação ou QA no [StackOverflow](https://stackoverflow.com/users/16884312/mayanna).
 </br>
 
-<!-- Skills em Programação -->
+<!-- SKILLS EM PROGRAMAÇÃO -->
 <p align="center">
-  <a href="">
-    <img alt="programming" src="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8"/>
-  </a>
+<a href="">
+<img alt="programming" src="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8"/>
+</a>
 </p>
 </br>
 
-### :handshake: Redes Sociais
+<!-- REDES SOCIAIS -->
+<h3> :handshake: Redes Sociais <h3>
 
 <p align="center">
-    <!-- Discord  -->
-    <a href="https://discordapp.com/users/728043170226503721">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
-    </a>
-    <!-- Mastodon -->
-    ​ <a href="https://mastodon.social/@mayannaoliveira">
-    <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=flat&logo=Mastodon&logoColor=white"/>
-    </a> 
-    <!-- Bluesky -->
-    ​ <a href="https://bsky.app/profile/mayannaoliveira.bsky.social">
-    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=flat&logo=Bluesky&logoColor=white"/>
-    </a>
-    <!-- Email -->
-     <a href=mailto:mayannait@gmail.com>
-    <img alt="email" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
-    <!-- Bio link-->
-     <a href="https://bio.link/mayanna">
-    <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
-    </a>
-    <!-- Credly -->
-     <a href="https://www.credly.com/users/mayannaoliveira/">
-    <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white"/>
-    </a>
-    <!-- GitHub -->
-     <a href="https://github.com/mayannaoliveira">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>
-    </a>
-    <!-- Stackoverflow -->
-     <a href="https://stackoverflow.com/users/16884312/mayanna">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
-    </a>
-    <a href="https://tryhackme.com/p/mayannait">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/mayannait" alt="tryhackme" />
-    </a> 
-    <a href="https://academy.hackthebox.com/">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=HackTheBox&logoColor=white&link=https://academy.hackthebox.com/" alt="Hack The Box"/>
-    </a>
-    <a href="https://www.codewars.com/users/mayannaoliveira">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/mayannaoliveira" alt="Codewars"/>
-    </a>
-     <a href="https://www.hackerrank.com/profile/mayannait">
-    <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
-    </a>
-  <a href="https://www.codechef.com/users/tower_boat_88">
-    <img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
-    </a>
+<!-- Discord  -->
+<a href="https://discordapp.com/users/728043170226503721">
+<img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+</a>
+<!-- Mastodon -->
+​ <a href="https://mastodon.social/@mayannaoliveira">
+<img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=flat&logo=Mastodon&logoColor=white"/>
+</a> 
+<!-- Bluesky -->
+​ <a href="https://bsky.app/profile/mayannaoliveira.bsky.social">
+<img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF.svg?style=flat&logo=Bluesky&logoColor=white"/>
+</a>
+<!-- Email -->
+<a href=mailto:mayannait@gmail.com>
+<img alt="email" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<!-- Bio link-->
+<a href="https://bio.link/mayanna">
+<img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
+</a>
+<!-- Credly -->
+<a href="https://www.credly.com/users/mayannaoliveira/">
+<img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white"/>
+</a>
+<!-- GitHub -->
+<a href="https://github.com/mayannaoliveira">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>
+</a>
+<!-- Stackoverflow -->
+<a href="https://stackoverflow.com/users/16884312/mayanna">
+<img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
+</a>
+<!-- TryHackMe -->
+<a href="https://tryhackme.com/p/mayannait">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/mayannait" alt="tryhackme" />
+</a> 
+<!-- Hackthebox -->
+<a href="https://academy.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=HackTheBox&logoColor=white&link=https://academy.hackthebox.com/" alt="Hack The Box"/>
+</a>
+<!-- Codewars -->
+<a href="https://www.codewars.com/users/mayannaoliveira">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/mayannaoliveira" alt="Codewars"/>
+</a>
+<!-- Hackerrank -->
+<a href="https://www.hackerrank.com/profile/mayannait">
+<img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
+</a>
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/tower_boat_88">
+<img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
+</a>
 </p>
 
-### :octocat: Estatísticas do GitHub
+<!-- Estatísticas do GitHub -->
+<h3> :octocat: Estatísticas do GitHub </h3>
 
-<!-- awesome github stats -->
+<!-- Awesome GitHub Stats -->
 <div class="row" align="center">
-  <div class="column">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayannaoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
-  </div>
+<div class="column">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayannaoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
+</div>
 </div>
 
 </br>
 
+<!-- GRÁFICO DO GITHUB -->
 <details close>
-  <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
-</br>
+<summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
+
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/xiaohuohumax/readme-widget-hub/pull/1) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
 2. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
@@ -91,46 +101,47 @@
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
 </details>
- 
-<!-- holopin -->
+
+<!-- HOLOPIN -->
 <details close>
-  <summary> <b> :t-rex: Holopin Badges </b> </summary>
-</br>
- 
-  ​<a href="https://holopin.io/@mayannaoliveira">
-    <img alt="holopin" src="https://holopin.me/mayannaoliveira" />
-  </a>
+<summary> <b> :t-rex: Holopin Badges </b> </summary>
+
+​<a href="https://holopin.io/@mayannaoliveira">
+<img alt="holopin" src="https://holopin.me/mayannaoliveira" />
+</a>
 </details>
 
-<!-- codewars -->
+<!-- CODEWARS -->
 <details close>
-  <summary> <b> :space_invader: Codewars Stats</b> </summary>
-</br>
+<summary> <b> :space_invader: Codewars Stats</b> </summary>
+
 <p align="center">
-  ​<a href="https://www.codewars.com/users/mayannaoliveira">
-    <img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default"/>
+​<a href="https://www.codewars.com/users/mayannaoliveira">
+<img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default"/>
 <img alt="codewars" src="https://www.codewars.com/users/mayannaoliveira/badges/large"/>
 </p>
 </details>
 
-<!-- duolingo -->
+<!-- DUOLINGO  -->
 <details close>
-  <summary> <b> :bird: Duolingo Stats</b> </summary>
-</br>
+<summary> <b> :bird: Duolingo Stats</b> </summary>
+
 <div align="center">
-  ​<a href="https://www.duolingo.com/profile/mayannait">
-    <img alt="" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true"/>
-<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait" width="90%"/>
-    
+<a href="https://www.duolingo.com/profile/mayannait">
+<img alt="duolingo" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true" width="350"/>
+</br>
+<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait" width="350"/>
+</a>
 <!--START_SECTION:duolingoStats-->
 <!--END_SECTION:duolingoStats-->
 
-  </div>
+</div>
 </details>
 
-<!-- Git Animals-->
+<!-- GIT ANIMALS -->
 <details close>
-  <summary> <b> :paw_prints: Git Animals Farm</b> </summary
+<summary> <b> :paw_prints: Git Animals Farm</b> </summary>
+
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mayannaoliveira&utm_content=farm">
 <img src="https://render.gitanimals.org/farms/mayannaoliveira" width="600" height="300" alt="git-animals"/>
@@ -138,26 +149,34 @@
 </div>
 </details>
 
+<!-- WAKATIME -->
 <details close>
-  <summary> <b> :clock1: Wakatime </b> </summary>
+<summary> <b> :clock1: Wakatime </b> </summary>
 <div align="center">
+
 <a href="https://wakatime.com/@mayannaoliveira">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula&layout=compact" alt="wakatime"/>
+</a>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-</a>
+
 </div>
-  
+</details>
+
+<!-- QUOTES -->
 <details close>
-  <summary> <b> :tea: Frase do Dia </b> </summary>
+<summary> <b> :book: Frase do Dia </b> </summary>
 <div align="center">
 <a href="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true">
-<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quotes"/>
 </a>
 </div>
+</details>
+
 ---
+
 
 <p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
 </br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Visitas%20no%20Perfil&color=red&style=for-the-badge" alt="mayannaoliveira" /> </p>
