@@ -183,7 +183,7 @@
 <summary> <b> :technologist: LeetCode </b> </summary>
 <div align="center">
 <!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
-<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true" alt="LeetCode">
+<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=dark" alt="LeetCode">
 </br>
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
