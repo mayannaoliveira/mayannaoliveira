@@ -136,8 +136,8 @@
 </br>
 <img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait&theme=onedark" width="350"/>
 </a>
+  
 </br>
-<!-- DUOLINGO https://github.com/centrumek/duolingo-readme-stats --->
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
