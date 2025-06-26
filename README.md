@@ -139,12 +139,20 @@
 </details>
 
 <details close>
-  <summary> <b> :tea: Frase do Dia </b> </summary
+  <summary> <b> :clock1: Wakatime </b> </summary>
 <div align="center">
-<a href="">
-<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quote"/>
+<a href="https://wakatime.com/@mayannaoliveira">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula&layout=compact" alt="wakatime"/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</a>
+</div>
+  
+<details close>
+  <summary> <b> :tea: Frase do Dia </b> </summary>
+<div align="center">
+<a href="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true">
+<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quote"/>
 </a>
 </div>
 ---
