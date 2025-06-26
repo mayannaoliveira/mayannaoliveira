@@ -190,6 +190,8 @@
 </br>
 <!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode">
+
+<sup> :student: Projeto em andamento... </sup>
 </div>
 </details>
 
