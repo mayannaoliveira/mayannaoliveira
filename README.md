@@ -1,12 +1,15 @@
 <!-- INTRODUÇÃO -->
-- 🎓 Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação [CTFL/BSTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&field_certificado_nome_value=Mayanna+Silva+Oliveira).
-- 🧑‍💻 Trabalho com TI há mais de 10 anos.
-- 📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.
-- 📎 Caso queira conhecer meu currículo acesse meu [LinkedIn @mayannaoliveira](https://www.linkedin.com/in/mayannaoliveira/).
-- 📧 Entre em contato através do email `mayannait@gmail.com`.
-- 💡 Acesse o [Credly](https://www.credly.com/users/mayannaoliveira) ou minha [página](credly-badges.md) com todos os emblemas que já conquitei.
-- 📓 Sempre estou aprendendo algo novo no [Codewars](https://www.codewars.com/users/mayannaoliveira), [HackerRank](https://www.hackerrank.com/profile/mayannait), [TryHackMe](https://tryhackme.com/p/mayannait) e [HTB](https://www.hackthebox.com/).
-- 💻 Envie sua dúvida sobre programação ou QA no [StackOverflow](https://stackoverflow.com/users/16884312/mayanna).
+<ul>
+<li> :mortar_board: Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&amp;field_certificado_nome_value=Mayanna+Silva+Oliveira">CTFL/BSTQB</a>.</li>
+<li> :computer: Trabalho com TI há mais de 10 anos.</li>
+<li>📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.</li>
+<li>📎 Caso queira conhecer meu currículo acesse meu <a href="https://www.linkedin.com/in/mayannaoliveira/">LinkedIn @mayannaoliveira</a>.</li>
+<li> :mailbox: Entre em contato através do email <code>mayannait@gmail.com</code>.</li>
+<li> :bulb: Acesse o <a href="https://www.credly.com/users/mayannaoliveira">Credly</a> ou minha <a href="credly-badges.md">página</a> com todos os emblemas que já conquitei.</li>
+<li> :notebook: Sempre estou aprendendo algo novo no <a href="https://www.codewars.com/users/mayannaoliveira">Codewars</a>, <a href="https://www.hackerrank.com/profile/mayannait">HackerRank</a>, <a href="https://tryhackme.com/p/mayannait">TryHackMe</a> e <a href="https://www.hackthebox.com/">HTB</a>.</li>
+<li> :floppy_disk: Envie sua dúvida sobre programação ou QA no <a href="https://stackoverflow.com/users/16884312/mayanna">StackOverflow</a>.</li>
+</ul>
+
 </br>
 
 <!-- SKILLS EM PROGRAMAÇÃO -->
