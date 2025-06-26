@@ -16,7 +16,7 @@ jobs:
       - uses: centrumek/duolingo-readme-stats@main
         with:
           SHOW_STREAK_TIMEZONE: false
-          FILE_NAME: readme.md
+          FILE_NAME: README.md
           DUOLINGO_USER_ID: ${{ vars.DUOLINGO_USER_ID }}
           ADVANCED_TOKEN_JWT: ${{ vars.DUOLINGO_TOKEN_JWT }}
           COMMIT_MSG: 'Update duolingo stats'
