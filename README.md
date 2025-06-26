@@ -139,26 +139,17 @@
 </details>
 
 <details close>
-  <summary> <b> :clock10: Wakatime </b> </summary
+  <summary> <b> :tea: Frase do Dia </b> </summary
 <div align="center">
 <a href="">
-<img src="" alt="wakatikme"/>
+<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quote"/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </a>
 </div>
-
 ---
 
 <p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
 </br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Visitas%20no%20Perfil&color=red&style=for-the-badge" alt="mayannaoliveira" /> </p>
-
-
-
-
-
-
-
- 
