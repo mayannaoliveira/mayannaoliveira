@@ -164,13 +164,28 @@
 </div>
 </details>
 
-<!-- QUOTES -->
+<!-- QUOTES https://github.com/PiyushSuthar/github-readme-quotes -->
 <details close>
 <summary> <b> :book: Frase do Dia </b> </summary>
 <div align="center">
 <a href="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true">
 <img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quotes"/>
 </a>
+</div>
+</details>
+
+<!-- LEETCODE -->
+<details close>
+<summary> <b> :technologist: LeetCode </b> </summary>
+<div align="center">
+<!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
+<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true" alt="LeetCode">
+</br>
+<!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
+<img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
+</br>
+<!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode">
 </div>
 </details>
 
