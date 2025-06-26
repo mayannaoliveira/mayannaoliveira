@@ -130,7 +130,7 @@
 <a href="https://www.duolingo.com/profile/mayannait">
 <img alt="duolingo" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true" width="350"/>
 </br>
-<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait" width="350"/>
+<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait&theme=onedark" width="350"/>
 </a>
 <!--START_SECTION:duolingoStats-->
 <!--END_SECTION:duolingoStats-->
