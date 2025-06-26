@@ -1,16 +1,13 @@
 name: Duolingo README Stats Action
 
-# GitHub Actions documentation: https://docs.github.com/en/actions
-# GitHub Marketplace Actions: https://github.com/marketplace?type=actions
-
 on:
   schedule:
-    - cron: "21 */6 * * *" # https://crontab.guru
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update README with duolingo stats
+    name: Update readme with your duolingo stats
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,7 +16,8 @@ jobs:
       - uses: centrumek/duolingo-readme-stats@main
         with:
           SHOW_STREAK_TIMEZONE: false
-          DUOLINGO_USER_ID: mayannait
-          COMMIT_EMAIL: mayannait@gmail.com
+          FILE_NAME: readme.md
+          DUOLINGO_USER_ID: ${{ vars.DUOLINGO_USER_ID }}
+          ADVANCED_TOKEN_JWT: ${{ vars.DUOLINGO_TOKEN_JWT }}
           COMMIT_MSG: 'Update duolingo stats'
           COMMIT_USERNAME: mayannaoliveira
