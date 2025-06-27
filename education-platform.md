@@ -56,6 +56,10 @@ Esse são algumas plataformas online onde estou sempre estudando e buscando novo
 
 ## :chess_pawn: Xadrez
 
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
 
 <img src="" alt="Badge">
 <img src="" alt="Badge">
