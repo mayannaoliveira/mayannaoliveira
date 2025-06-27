@@ -1,3 +1,5 @@
+# Página em construção 
+
 ## :student: Plataformas de Estudo
 
 Esse são algumas plataformas online onde estou sempre estudando e buscando novos desafios.
@@ -12,6 +14,38 @@ Esse são algumas plataformas online onde estou sempre estudando e buscando novo
 </div>
 
 ## :bird: Duolingo
+
+
+
+
+<!-- DUOLINGO  -->
+<details open>
+<summary> <b> :bird: Estatísticas do Duolingo</b> </summary>
+
+<div align="center">
+<a href="https://www.duolingo.com/profile/mayannait">
+<img alt="duolingo" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true" width="350"/>
+</br>
+<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait&theme=onedark" width="350"/>
+</a>
+  
+</br>
+<!--START_SECTION:duolingoStats-->
+<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats--><!--START_SECTION:duolingoStats-->
+<!-- Automatically generated with 
+
+| Username | Day Streak | Total XP |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> mayannait | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 7 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1247 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
+
+| Language | XP |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/portuguese.svg" height="12"> Portuguese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1127 |
+
+<!--END_SECTION:duolingoStats-->
+
+</div>
+</details>
 
 
 ## :cook: CodeChef
