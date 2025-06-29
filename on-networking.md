@@ -1,4 +1,4 @@
-## :student: Plataformas de Estudo :space_invader:
+## :books: Redes Sociais :space_invader:
 
 Esse são algumas plataformas online onde estou sempre estudando, me divertindo e buscando novos desafios.
 
@@ -64,8 +64,8 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 </details>
 
-<details close
-<summary> <b> :speech_bubble: Dev Collab no Discord </b> </summary>
+<details close>
+<summary> <b> :speech_bubble: Dev Collab no Discord </b></summary>
 <div align="center">
 <img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge-Discord">
 <sup>Venha participar do Dev Collab, estamos sempre compartilhando assuntos ligados a tecnologia, cursos de TI e games.</sup>
