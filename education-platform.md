@@ -53,15 +53,12 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 
 </details>
 
-<details open>
+<details close>
 <summary> <b> :chess_pawn: Xadrez no Chess.com </b> </summary>
-
-</details>
-
-<!-- CHESS.COM -->
+<!-- CHESS.COM https://github.com/Prathamesh-B/chesscom-stats-svg -->
 <div align="center">
 <img src="https://chesscom-stats-svg.vercel.app/stats?username=mayannait&theme=dark&borderRadius=3" alt="ChessStats"/>
-
+</br>
 <!--START_SECTION:chessStats-->
 <!--END_SECTION:chessStats-->
 </div>
