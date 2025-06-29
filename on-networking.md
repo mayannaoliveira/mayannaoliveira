@@ -64,8 +64,14 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 </details>
 
-<img src="https://dcbadge.limes.pink/api/shield/728043170226503721" alt="Discord">
-<img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge">
+<details close
+<summary> <b> :speech_bubble: Dev Collab no Discord </b> </summary>
+<div align="center">
+<img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge-Discord">
+<sup>Venha participar do Dev Collab, estamos sempre compartilhando assuntos ligados a tecnologia, cursos de TI e games.</sup>
+</div>
+</details>
+
 <img src="" alt="Badge">
 <img src="" alt="Badge">
 <img src="" alt="Badge">
