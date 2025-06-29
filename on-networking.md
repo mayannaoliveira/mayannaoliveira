@@ -64,7 +64,7 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 </details>
 
-<!-- DISCORD https://github.com/JaredScar/Badger_Discord_API -->
+<!-- DISCORD https://github.com/dgibbs64/discord-banners -->
 <details close>
 <summary> <b> :speech_balloon: Dev Collab no Discord </b></summary>
 <div align="center">
