@@ -1,8 +1,6 @@
-# 👷‍♀️ Página em construção :building_construction:
+## :student: Plataformas de Estudo :space_invader:
 
-## :student: Plataformas de Estudo
-
-Esse são algumas plataformas online onde estou sempre estudando e buscando novos desafios.
+Esse são algumas plataformas online onde estou sempre estudando, me divertindo e buscando novos desafios.
 
 <div align="center"> 
 <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Badge">
@@ -12,11 +10,6 @@ Esse são algumas plataformas online onde estou sempre estudando e buscando novo
 <img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Badge">
 <img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Badge">
 </div>
-
-## :bird: Duolingo
-
-
-
 
 <!-- DUOLINGO  -->
 <details open>
@@ -45,14 +38,27 @@ Esse são algumas plataformas online onde estou sempre estudando e buscando novo
 </div>
 </details>
 
-## :cook: CodeChef
-## :crossed_swords: Codeawars
-## :computer: LeetCode
+<details open>
+<summary> <b> :cook: CodeChef </b> </summary>
 
+</details>
+  
+<details open>
+<summary> <b> :crossed_swords: Codeawars </b> </summary>
+  
+</details>
+  
+<details open>
+<summary> <b>:computer: LeetCode </b> </summary>
+
+</details>
 
 <details open>
 <summary> <b> :chess_pawn: Xadrez no Chess.com </b> </summary>
 
+</details>
+
+<!-- CHESS.COM -->
 <div align="center">
 <img src="https://chesscom-stats-svg.vercel.app/stats?username=mayannait&theme=dark&borderRadius=3" alt="ChessStats"/>
 
