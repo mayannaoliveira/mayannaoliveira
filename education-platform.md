@@ -65,7 +65,7 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </details>
 
 <img src="https://dcbadge.limes.pink/api/shield/728043170226503721" alt="Discord">
-<img src="" alt="Badge">
+<img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge">
 <img src="" alt="Badge">
 <img src="" alt="Badge">
 <img src="" alt="Badge">
