@@ -41,25 +41,25 @@ Esse são algumas plataformas online onde estou sempre estudando e buscando novo
 | Language | XP |
 |:---:|:---:|
 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/portuguese.svg" height="12"> Portuguese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1127 |
-
 <!--END_SECTION:duolingoStats-->
-
 </div>
 </details>
 
-
 ## :cook: CodeChef
-
 ## :crossed_swords: Codeawars
-
 ## :computer: LeetCode
 
-## :chess_pawn: Xadrez
+
+<details open>
+<summary> <b> :chess_pawn: Xadrez no Chess.com </b> </summary>
+
+<div align="center">
+<img src="https://chesscom-stats-svg.vercel.app/stats?username=mayannait&theme=dark&borderRadius=3" alt="ChessStats"/>
 
 <!--START_SECTION:chessStats-->
-
 <!--END_SECTION:chessStats-->
-
+</div>
+</details>
 
 <img src="" alt="Badge">
 <img src="" alt="Badge">
