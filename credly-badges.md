@@ -4,6 +4,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 <div align="center">
 
 <!-- START CREDLY BADGES -->
+[![MongoDB Advanced Schema Design Patterns and Antipatterns Skill Badge](https://images.credly.com/size/80x80/images/63848a8b-880e-46aa-b042-796faf1e911f/blob)](https://www.credly.com/badges/088b09df-66a9-403c-89c6-398867ca004d)
 [![Dremio Verified Data Analyst](https://images.credly.com/size/80x80/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob)](https://www.credly.com/badges/2325b0a6-e978-4cf9-895b-63fec926b837)
 [![Dremio Verified Lakehouse Associate](https://images.credly.com/size/80x80/images/12243391-8d11-4265-93b3-c82d8479f681/blob)](https://www.credly.com/badges/5c67306e-d2eb-4de7-9646-c22d15f2ff32)
 [![Kubernetes Admin Network Policy Shodan](https://images.credly.com/size/80x80/images/b38c2d4f-f4bb-4f8e-aa6c-d8c8b01529a2/blob)](https://www.credly.com/badges/6edf386b-789f-4a35-89ce-982883f46e69)
