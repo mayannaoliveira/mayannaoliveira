@@ -54,8 +54,9 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 <details close>
 <summary> <b> :speech_balloon: Dev Collab no Discord </b></summary>
 <div align="center">
+<a href="https://discord.gg/HGSssaDp">
 <img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge-Discord">
-  
+</a>
 <sup>Venha participar do Dev Collab, estamos sempre compartilhando assuntos ligados a tecnologia, cursos de TI e games.</sup>
 </div>
 </details>
