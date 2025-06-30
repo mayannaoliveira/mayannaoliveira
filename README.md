@@ -129,14 +129,7 @@
 <!-- DUOLINGO  -->
 <details close>
 <summary> <b> :bird: Duolingo Stats</b> </summary>
-
 <div align="center">
-<a href="https://www.duolingo.com/profile/mayannait">
-<img alt="duolingo" src="https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=mayannait&darkMode=true" width="350"/>
-</br>
-<img alt="duolingo" src="https://duolingo-stats-card.vercel.app/api?username=mayannait&theme=onedark" width="350"/>
-</a>
-  
 </br>
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
