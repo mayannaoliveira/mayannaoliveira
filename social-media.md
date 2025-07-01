@@ -12,7 +12,7 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 
 <!-- DUOLINGO  -->
-<details open>
+<details close>
 <summary> <b> :bird: Estatísticas do Duolingo</b> </summary>
 
 <div align="center">
@@ -57,10 +57,8 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 <a href="https://discord.gg/HGSssaDp">
 <img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge-Discord">
 </a>
-<sup>Venha participar do Dev Collab, estamos sempre compartilhando assuntos ligados a tecnologia, cursos de TI e games.</sup>
+<sup>Clique na imagem acima venha participar do servidor Dev Collab no Discord, estamos sempre compartilhando assuntos ligados a tecnologia, cursos e games.</sup>
+</br>
+<img src="https://img.shields.io/discord/1374165390036308101?style=flat&logo=discord&label=Dev%20Collab&labelColor=white&color=5865F2" alt="dev-collab">
 </div>
 </details>
-
-<img src="" alt="Badge">
-<img src="" alt="Badge">
-<img src="" alt="Badge">
