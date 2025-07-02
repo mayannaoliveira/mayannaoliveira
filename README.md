@@ -102,8 +102,92 @@
 2. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity--> 
 
-
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
+</details>
+
+<!-- Trabalhando nos Projetos -->
+<details close>
+<summary> <b> :octocat: Projetos no GitHub </b> </summary>
+
+<table>
+<thead>
+<tr>
+<th>Projetos</th>
+<th>Repositórios</th>
+<th>Descrições</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<!-- xiaohuohumax/readme-widget-hub -->
+<td>
+<a href="https://github.com/xiaohuohumax/readme-widget-hub">
+<img src="https://img.shields.io/badge/readme--widget--hub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/xiaohuohumax/readme-widget-hub" alt="readme-widget-hub"/>
+</a>
+</td>
+<td>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/xiaohuohumax/readme-widget-hub?style=flat&label=Forks">
+</br>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xiaohuohumax/readme-widget-hub?style=flat&label=Stars">
+</td>
+<td> Coleção de vários emblemas e cartões de estatísticas de fácil integração nos arquivos README. </br>
+Collect various interesting badges and status cards for easy integration into README files.</td>
+</tr>
+<!-- mayannaoliveira/Discord-Bot -->
+<tr>
+<td><a href="https://github.com/mayannaoliveira/Discord-Bot">
+<img src="https://img.shields.io/badge/Discord--Bot-181717?style=flat&logo=github&logoColor=white&link=https://github.com/mayannaoliveira/Discord-Bot" alt="Discord-Bot"/>
+</a>
+</td>
+<td>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/mayannaoliveira/Discord-Bot?style=flat&label=Forks">
+</br>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mayannaoliveira/Discord-Bot?style=flat&label=Stars">
+</td>
+<td>
+Meu primeiro bot do Discord feito somente por diversão. </br> My first Discord bot made in Python just for fun.</td>
+</tr>
+<!-- mayannaoliveira/journey-to-hackerank-sql -->
+<tr>
+<td>
+<a href="https://github.com/mayannaoliveira/journey-to-hackerank-sql">
+<img src="https://img.shields.io/badge/journey--to--hackerank--sql-181717?style=flat&logo=github&logoColor=white&link=https://github.com/mayannaoliveira/journey-to-hackerank-sql" alt="journey-to-hackerank-sql"/>
+</a>
+</td>
+<td>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/mayannaoliveira/journey-to-hackerank-sql?style=flat&label=Forks">
+</br>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mayannaoliveira/journey-to-hackerank-sql?style=flat&label=Stars">
+</td>
+<td>
+Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, repositório somente para estudar SQL.</br> I like to develop my skills solving some challenges in HackerRank, repository just to study SQL.
+</td>
+</tr>
+<!-- mayannaoliveira/template-go-codecov -->
+<tr>
+<td><a href="https://github.com/mayannaoliveira/template-go-codecov"><img src="https://img.shields.io/badge/template--go--codecov-181717?style=flat&logo=github&logoColor=white&link=https://github.com/mayannaoliveira/template-go-codecov" alt="template-go-codecov"/></a></td>
+<td>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/mayannaoliveira/template-go-codecov?style=flat&label=Forks">
+</br>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mayannaoliveira/template-go-codecov?style=flat&label=Stars">
+</td>
+<td>Um tutorial passo a passo de como configurar o Codecov em um projeto Go. </br> A tutorial step by step how to config Codecov in a Go project.</td>
+</tr>
+<!-- Exemplos -->
+<!-- <tr>
+<td>111</td>
+<td>222</td>
+<td>333</td>
+</tr>
+<tr>
+<td>111</td>
+<td>222</td>
+<td>333</td>
+</tr> -->
+</tbody>
+</table>
+<sup> :world_map: If you have a open Source Project please, keep in touch with me by Discord because will be a pleasure join in the project and be part of your team. 
+</br> :world_map: Se você tem um projeto Open Source por favor, entre em contato comigo pelo Discord porque será um prazer fazer parte desse projeto e da sua equipe! </sup>
 </details>
 
 <!-- HOLOPIN -->
