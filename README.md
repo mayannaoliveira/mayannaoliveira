@@ -221,11 +221,11 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> mayannait | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakfrozen.svg" height="12"> 7 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1247 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> mayannait | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 8 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1342 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
 
 | Language | XP |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/portuguese.svg" height="12"> Portuguese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1127 |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/portuguese.svg" height="12"> Portuguese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1198 |
 
 <!--END_SECTION:duolingoStats-->
 
