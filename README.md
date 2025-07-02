@@ -1,3 +1,4 @@
+
 <!-- INTRODUÇÃO -->
 <ul>
 <li> :mortar_board: Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&amp;field_certificado_nome_value=Mayanna+Silva+Oliveira">CTFL/BSTQB</a>.</li>
@@ -14,7 +15,7 @@
 
 <!-- SKILLS EM PROGRAMAÇÃO -->
 <p align="center">
-<a href="">
+<a href="https://skillicons.dev/">
 <img alt="programming" src="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8"/>
 </a>
 </p>
@@ -166,7 +167,10 @@
 <a href="https://wakatime.com/@mayannaoliveira">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula&layout=compact" alt="wakatime"/>
 </a>
-
+</br>
+<a href="https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f">
+<img src="https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg" alt="Total time coded since Aug 1 2021"/>
+</a>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
