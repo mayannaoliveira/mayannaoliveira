@@ -29,9 +29,16 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 
 </details>
   
-<details open>
-<summary> <b> :crossed_swords: Codeawars </b> </summary>
-  
+<!-- CODEWARS -->
+<details close>
+<summary> <b> :space_invader: Codewars Stats</b> </summary>
+
+<p align="center">
+​<a href="https://www.codewars.com/users/mayannaoliveira">
+<img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default"/>
+  </br>
+<img alt="codewars" src="https://www.codewars.com/users/mayannaoliveira/badges/large"/>
+</p>
 </details>
   
 <details open>
