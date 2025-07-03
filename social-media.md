@@ -6,8 +6,10 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Badge">
 <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" alt="Badge">
 <img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Badge">
 <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Badge">
 <img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white" alt="Badge">
 <img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Badge">
 </div>
 
