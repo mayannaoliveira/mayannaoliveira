@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/artigos-postagens/commit/ad8b460f73429fbbe47869b78ecd11c8f3a6af99\"><strong>a</strong>d8b460f73429fbbe47869b78ecd11c8f3a6af99</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5eaee3a65e973f6444f5ee8d55a4cdeadf1a9f48\">5eaee3a65e973f6444f5ee8d55a4c<strong>dead</strong>f1a9f48</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 233 times)\n2. readme.md (used 109 times)\n3. create (used 56 times)\n4. post: (used 31 times)\n5. readme (used 22 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 7 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/journey-to-hackerank-python\">mayannaoliveira/journey-to-hackerank-python</a>\n- <a href=\"https://github.com/mayannaoliveira/chefcode-python\">mayannaoliveira/chefcode-python</a>\n- <a href=\"https://github.com/mayannaoliveira/oh-my-posh\">mayannaoliveira/oh-my-posh</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira\">mayannaoliveira/mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/readme-widget-hub\">mayannaoliveira/readme-widget-hub</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira/commit/ec1d523d594d76602840ee2ece82bf8a5fc9693e\">ec1d523</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira.github.io/commit/8780aad22ddcd5642a3800e87e8520c98362ad62\">8780aad</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira.github.io/commit/d8155417c6166d645da6b8a9d02a408124791304\">d815541</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira.github.io/commit/30cced2959127441c90fc067f6c9de8f14a990f0\">30cced2</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira.github.io/commit/825005a50b123bf60be94d8edd8c393d24dc2a4d\">825005a</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira.github.io/commit/eea4ba42180e3f43000fe63710ee6ca85450f9ac\">eea4ba4</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5724882d35c7a8b6d9dd2255ec51d46c5638d6a6\">5724882</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/9f34b7e775114a30e8d04c846f1457ce5b7b6008\">9f34b7e</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/02b97a7e1e19486d884ed28494c918fd43d827c2\">02b97a7</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/ca93e44e27bd3b775d9f577a89c779dd0a4b309e\">ca93e44</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/540c347f1093dd4c92030c9161a42bb25c5836b7\">540c347</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/b1a07a5c0b747e08660dad1f3a091200e3643109\">b1a07a5</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/1db859ab44768f2791f983767944e3bdef40c7a7\">1db859a</a>\n- <a href=\"https://github.com/mayannaoliveira/postman-academy-chanllenges/commit/0dffcbe041ee6f3957c0edb4d9f177a93b2c59cd\">0dffcbe</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
