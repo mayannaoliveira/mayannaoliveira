@@ -1,17 +1,3 @@
-<!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 7 my own repositories." title="I&apos;ve starred 7 my own repositories." width="64"></a>
-<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<!-- my-badges end -->
-
-
 <!-- INTRODUÇÃO -->
 <ul>
 <li> :mortar_board: Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&amp;field_certificado_nome_value=Mayanna+Silva+Oliveira">CTFL/BSTQB</a>.</li>
@@ -212,18 +198,6 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </a>
 </details>
 
-<!-- CODEWARS -->
-<details close>
-<summary> <b> :space_invader: Codewars Stats</b> </summary>
-
-<p align="center">
-​<a href="https://www.codewars.com/users/mayannaoliveira">
-<img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default"/>
-  </br>
-<img alt="codewars" src="https://www.codewars.com/users/mayannaoliveira/badges/large"/>
-</p>
-</details>
-
 <!-- DUOLINGO  -->
 <details close>
 <summary> <b> :bird: Duolingo Stats</b> </summary>
@@ -288,16 +262,31 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 <details close>
 <summary> <b> :technologist: LeetCode </b> </summary>
 <div align="center">
-<!-- LEETCODE https://github.com/songquanpeng/stats-cards --->
-<img src="https://stats.justsong.cn/api/leetcode?username=mayannait&cn=true&theme=dark" alt="LeetCode">
-</br>
 <!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
 <img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
 </br>
-<!-- LEETCODE https://github.com/KevzPeter/Leetcode-Badge-Showcase -->
-<!--  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mayannait&theme=dracula&border=border&animated=true" alt="LeetCode"> -->
+</div>
+</details>
 
-<sup> :student: Projeto em andamento... </sup>
+<!-- My Badges - https://github.com/my-badges/my-badges -->
+<details close>
+<summary><b>:name_badge: My Badges</b></summary>
+<div align="center">
+  
+<!-- my-badges start -->
+<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
+<a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
+<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
+<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
+<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 7 my own repositories." title="I&apos;ve starred 7 my own repositories." width="64"></a>
+<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
+<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
+<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
+<!-- my-badges end -->
+
+<sup>Emblemas do [My Badges](https://github.com/my-badges/my-badges).</sup>
 </div>
 </details>
 
