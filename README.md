@@ -97,7 +97,7 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/xiaohuohumax/readme-widget-hub/pull/1) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+1. 💪 Opened PR [#2](https://github.com/xiaohuohumax/readme-widget-hub/pull/2) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
 2. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity--> 
 
