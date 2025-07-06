@@ -76,6 +76,10 @@
 <a href="https://www.codechef.com/users/tower_boat_88">
 <img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
 </a>
+<!-- HackerEarth -->
+<a href="https://www.hackerearth.com/@mayannait/">
+<img alt="codechef" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=flat&logo=HackerEarth&logoColor=white"/>
+</a>
 </p>
 
 <!-- Estatísticas do GitHub -->
