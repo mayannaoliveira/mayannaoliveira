@@ -71,3 +71,11 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 <img src="https://img.shields.io/discord/1374165390036308101?style=flat&logo=discord&label=Dev%20Collab&labelColor=white&color=5865F2" alt="dev-collab">
 </div>
 </details>
+
+<!-- HACKERANK-->
+<details close>
+<summary> <b>:medal_sports: HackerRank </b></summary>
+<div align="center">
+<img alt="points" src="https://hackerrank-stats.vercel.app/api?username=mayannait"/>
+</div>
+</details>
