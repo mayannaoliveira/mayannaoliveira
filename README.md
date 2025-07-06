@@ -97,8 +97,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3309](https://github.com/alacritty/alacritty/issues/3309#issuecomment-3037576554) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-2. 💪 Opened PR [#2](https://github.com/xiaohuohumax/readme-widget-hub/pull/2) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+1. 💪 Opened PR [#3](https://github.com/xiaohuohumax/readme-widget-hub/pull/3) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+2. 🗣 Commented on [#3309](https://github.com/alacritty/alacritty/issues/3309#issuecomment-3037576554) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 <!--END_SECTION:activity--> 
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
