@@ -3,14 +3,14 @@
 Esse são algumas plataformas online onde estou sempre estudando, me divertindo e buscando novos desafios.
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=for-the-badge&logo=Hack-The-Box&logoColor=black" alt="Badge">
-<img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white" alt="Badge">
-<img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=flat&logo=TryHackMe&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00.svg?style=flat&logo=Hack-The-Box&logoColor=black" alt="Badge">
+<img src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=flat&logo=HackerRank&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=LeetCode&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=flat&logo=chessdotcom&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/Lichess-000000.svg?style=flat&logo=Lichess&logoColor=white" alt="Badge">
+<img src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=flat&logo=Duolingo&logoColor=white" alt="Badge">
 </div>
 
 <!-- DUOLINGO  -->
@@ -25,11 +25,6 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </a>
 </div>
 </details>
-
-<details open>
-<summary> <b> :cook: CodeChef </b> </summary>
-
-</details>
   
 <!-- CODEWARS -->
 <details close>
@@ -43,9 +38,14 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </p>
 </details>
   
-<details open>
-<summary> <b>:computer: LeetCode </b> </summary>
-
+<!-- LEETCODE -->
+<details close>
+<summary> <b> :technologist: LeetCode </b> </summary>
+<div align="center">
+<!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
+<img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
+</br>
+</div>
 </details>
 
 <details close>
