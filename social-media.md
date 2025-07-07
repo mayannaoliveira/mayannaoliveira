@@ -144,6 +144,14 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 </details>
 
+<!-- STACKOVERFLOW-->
+<details close>
+<summary> <b> :people_holding_hands: Stack Overflow </b></summary>
+<div align="center">
+<img alt="StackOverflow" src="https://github-readme-stackoverflow.vercel.app/?userID=16884312&theme=dark"/>
+</div>
+</details>
+
 ---
 
 :house: Clique aqui para voltar a [página inicial](README.md).
