@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 234 times)\n2. readme.md (used 110 times)\n3. create (used 56 times)\n4. post: (used 31 times)\n5. readme (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 243 times)\n2. readme.md (used 114 times)\n3. create (used 57 times)\n4. post: (used 31 times)\n5. readme (used 22 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
+    "desc": "I've starred 7 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/journey-to-hackerank-python\">mayannaoliveira/journey-to-hackerank-python</a>\n- <a href=\"https://github.com/mayannaoliveira/chefcode-python\">mayannaoliveira/chefcode-python</a>\n- <a href=\"https://github.com/mayannaoliveira/oh-my-posh\">mayannaoliveira/oh-my-posh</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira\">mayannaoliveira/mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/readme-widget-hub\">mayannaoliveira/readme-widget-hub</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/43e5f20492240af5c82dc94e5ae18df136a39307\">43e5f20</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/3d762ff283d4b5f85b48006493311050fe683f8f\">3d762ff</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5724882d35c7a8b6d9dd2255ec51d46c5638d6a6\">5724882</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/9f34b7e775114a30e8d04c846f1457ce5b7b6008\">9f34b7e</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/02b97a7e1e19486d884ed28494c918fd43d827c2\">02b97a7</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/ca93e44e27bd3b775d9f577a89c779dd0a4b309e\">ca93e44</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/f4320bdb65acae1d5c0f150ff6bb3a1ccaedfe4f\">f4320bd</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/7e881dfa269d9f21baa02e1d726b843af46d29ee\">7e881df</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/fd7bbab30e7094814218400647f58be90c3a94d9\">fd7bbab</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5d50e2149cf5a15db83c0d4f6cd80af9794dc5a1\">5d50e21</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/e8e2e6c0eb0e52e6e9f39b8049c2b86f13e4c5d6\">e8e2e6c</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5d5953a32fbbe2f39d5c752d8157e1084d9b6d43\">5d5953a</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -68,5 +68,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/1db859ab44768f2791f983767944e3bdef40c7a7\">1db859a</a>\n- <a href=\"https://github.com/mayannaoliveira/postman-academy-chanllenges/commit/0dffcbe041ee6f3957c0edb4d9f177a93b2c59cd\">0dffcbe</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/d43e10f1ae7d6df3709cc09607e0d1c6a416f94e\">d43e10f</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/00729651eff76d72942859d36927988dca604914\">0072965</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/035a85c007cafc8788219b9c3bac112ef225fd35\">035a85c</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/025f081a672adc5fa281b5320d34686e2b2efa5f\">025f081</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   }
 ]
