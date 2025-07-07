@@ -76,11 +76,28 @@
 <a href="https://www.codechef.com/users/tower_boat_88">
 <img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
 </a>
+<!-- Leetcode -->
+<a href="">
+<img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=LeetCode&logoColor=white"/>
+</a>
 <!-- HackerEarth -->
 <a href="https://www.hackerearth.com/@mayannait/">
-<img alt="codechef" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=flat&logo=HackerEarth&logoColor=white"/>
+<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=flat&logo=HackerEarth&logoColor=white"/>
+</a>
+<!-- Duolingo -->
+<a href="">
+<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=flat&logo=Duolingo&logoColor=white"/>
+</a>
+<!-- Chess.com -->
+<a href="">
+<img alt="chess.com" src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=flat&logo=chessdotcom&logoColor=white"/>
+</a>
+<!-- Lichess -->
+<a href="">
+<img alt="lichess" src="https://img.shields.io/badge/Lichess-000000.svg?style=flat&logo=Lichess&logoColor=white"/>
 </a>
 </p>
+
 
 <!-- Estatísticas do GitHub -->
 <h3> :octocat: Estatísticas do GitHub </h3>
