@@ -47,3 +47,7 @@ _Acesse o [Credly](https://www.credly.com/users/mayannaoliveira/badges) veja tod
 [^1]: Badges geradas manualmente através do [Readme Credly Badges][credly-badges].
 
 [credly-badges]:https://github.com/jd-35656/readme-credly-badges#inputs
+
+---
+
+:house: Clique aqui para voltar a [página inicial](README.md).
