@@ -271,26 +271,6 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </div>
 </details>
 
-<!-- QUOTES https://github.com/PiyushSuthar/github-readme-quotes -->
-<details close>
-<summary> <b> :book: Frase do Dia </b> </summary>
-<div align="center">
-<a href="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true">
-<img src="https://quotes-github-readme.vercel.app/api?theme=nord&type=horizontal&border=true" alt="quotes"/>
-</a>
-</div>
-</details>
-
-<!-- LEETCODE -->
-<details close>
-<summary> <b> :technologist: LeetCode </b> </summary>
-<div align="center">
-<!-- LEETCODE https://github.com/JacobLinCool/LeetCode-Stats-Card --->
-<img src="https://leetcard.jacoblin.cool/mayannait?ext=activity" alt="LeetCode">
-</br>
-</div>
-</details>
-
 <!-- My Badges - https://github.com/my-badges/my-badges -->
 <details close>
 <summary><b>:name_badge: My Badges</b></summary>
