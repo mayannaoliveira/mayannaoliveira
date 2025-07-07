@@ -21,8 +21,10 @@
 </br>
 
 <!-- REDES SOCIAIS -->
-<h3> :handshake: Redes Sociais <h3>
+<h3> :handshake: Redes Sociais </h3>
 
+Para mais informações acesse a página com as minhas [redes sociais](social-media.md).
+  
 <p align="center">
 <!-- Discord  -->
 <a href="https://discordapp.com/users/728043170226503721">
