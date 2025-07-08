@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 243 times)\n2. readme.md (used 114 times)\n3. create (used 57 times)\n4. post: (used 31 times)\n5. readme (used 22 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 261 times)\n2. readme.md (used 126 times)\n3. create (used 68 times)\n4. post: (used 31 times)\n5. readme (used 26 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 7 my own repositories.",
-    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/journey-to-hackerank-python\">mayannaoliveira/journey-to-hackerank-python</a>\n- <a href=\"https://github.com/mayannaoliveira/chefcode-python\">mayannaoliveira/chefcode-python</a>\n- <a href=\"https://github.com/mayannaoliveira/oh-my-posh\">mayannaoliveira/oh-my-posh</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira\">mayannaoliveira/mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/readme-widget-hub\">mayannaoliveira/readme-widget-hub</a>",
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/f4320bdb65acae1d5c0f150ff6bb3a1ccaedfe4f\">f4320bd</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/7e881dfa269d9f21baa02e1d726b843af46d29ee\">7e881df</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/fd7bbab30e7094814218400647f58be90c3a94d9\">fd7bbab</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5d50e2149cf5a15db83c0d4f6cd80af9794dc5a1\">5d50e21</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/e8e2e6c0eb0e52e6e9f39b8049c2b86f13e4c5d6\">e8e2e6c</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5d5953a32fbbe2f39d5c752d8157e1084d9b6d43\">5d5953a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/hackerearth-programming/commit/7111a4519b67d92ec69ebbab5425c4be94f3cd10\">7111a45</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/f4320bdb65acae1d5c0f150ff6bb3a1ccaedfe4f\">f4320bd</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/7e881dfa269d9f21baa02e1d726b843af46d29ee\">7e881df</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/fd7bbab30e7094814218400647f58be90c3a94d9\">fd7bbab</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/5d50e2149cf5a15db83c0d4f6cd80af9794dc5a1\">5d50e21</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/e8e2e6c0eb0e52e6e9f39b8049c2b86f13e4c5d6\">e8e2e6c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
