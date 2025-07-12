@@ -123,14 +123,19 @@ Esse são algumas plataformas online onde estou sempre estudando, me divertindo 
 </div>
 </details>
 
-<!-- DISCORD https://github.com/dgibbs64/discord-banners -->
+<!-- DISCORD -->
 <details close>
 <summary> <b> :speech_balloon: Dev Collab no Discord </b></summary>
 <div align="center">
 <a href="https://discord.gg/HGSssaDp">
-<img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner4" alt="Badge-Discord">
+<!-- Discord Dev Collab https://github.com/dgibbs64/discord-banners -->
+<img src="https://discord.com/api/guilds/1374165390036308101/widget.png?style=banner2" alt="Discord">
 </a>
+<!-- Discord https://github.com/Ezzud/github-readme-discord-card -->
+<img src="https://discord-readme-card.ezzud.fr/?userid=728043170226503721" alt="Discord" width="318px">
+
 </br>
+
 Clique na imagem acima venha participar do servidor Dev Collab no Discord, estamos sempre compartilhando assuntos ligados a tecnologia, cursos e games.
 </br>
 <img src="https://img.shields.io/discord/1374165390036308101?style=flat&logo=discord&label=Dev%20Collab&labelColor=white&color=5865F2" alt="dev-collab">
