@@ -19,7 +19,7 @@ jobs:
         uses: jd-35656/readme-credly-badges@v1
         with:
           credly_username: "mayannaoliveira"
-          badge_size: "80x80"
+          badge_size: "100x100"
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_branch: "master"
           readme_file: "credly-badges.md"

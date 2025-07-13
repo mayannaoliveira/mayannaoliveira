@@ -1,26 +1,38 @@
-<!-- INTRODUÇÃO -->
+<div align="center">
+<a href="README.md"> :home: Início</a>
+<a href="social-media.md"> | :bust_in_silhouette: Redes Sociais</a>
+<a href="github-activity.md"> | :black_cat: Atividade no GitHub</a>
+<a href="credly-badges.md"> | :medal_military: Credly Badges</a>
+</div>
+
+---
+
+<!-- Introdução -->
 <ul>
-<li> :mortar_board: Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&amp;field_certificado_nome_value=Mayanna+Silva+Oliveira">CTFL/BSTQB</a>.</li>
-<li> :computer: Trabalho com TI há mais de 10 anos.</li>
-<li>📍 Eu sou natural de Guanambi-BA mas moro em Salvador-BA.</li>
-<li>📎 Caso queira conhecer meu currículo acesse meu <a href="https://www.linkedin.com/in/mayannaoliveira/">LinkedIn @mayannaoliveira</a>.</li>
-<li> :mailbox: Entre em contato através do email <code>mayannait@gmail.com</code>.</li>
-<li> :bulb: Acesse o <a href="https://www.credly.com/users/mayannaoliveira">Credly</a> ou minha <a href="credly-badges.md">página</a> com todos os emblemas que já conquitei.</li>
-<li> :notebook: Sempre estou aprendendo algo novo no <a href="https://www.codewars.com/users/mayannaoliveira">Codewars</a>, <a href="https://www.hackerrank.com/profile/mayannait">HackerRank</a>, <a href="https://tryhackme.com/p/mayannait">TryHackMe</a> e <a href="https://www.hackthebox.com/">HTB</a>.</li>
-<li> :floppy_disk: Envie sua dúvida sobre programação ou QA no <a href="https://stackoverflow.com/users/16884312/mayanna">StackOverflow</a>.</li>
+   <li> :mortar_board: Graduação em Análise de Sistemas (Unopar), pós-graduação em Engenharia ds Sistemas (Unimontes) e certificação <a href="https://bcr.bstqb.org.br/cert?field_certificado_numero_value=&amp;field_certificado_nome_value=Mayanna+Silva+Oliveira">CTFL/BSTQB</a>.</li>
+   <li> :computer: Trabalho como Analista de Sistemas desde 2013. </li>
+   <li> :airplane: Eu sou natural de Guanambi-BA mas moro em Salvador-BA.</li>
+   <li> :zap: Caso queira conhecer meu currículo acesse meu <a href="https://www.linkedin.com/in/mayannaoliveira/">LinkedIn @mayannaoliveira</a>.</li>
+   <li> :mailbox: Entre em contato através do email <code>mayannait@gmail.com</code>.</li>
+   <li> :bulb: Acesse o <a href="https://www.credly.com/users/mayannaoliveira">Credly</a> ou minha <a href="credly-badges.md">página</a> onde têm todos os emblemas que já conquitei.</li>
+   <li> :notebook: Sempre estou aprendendo algo novo no <a href="https://www.codewars.com/users/mayannaoliveira">Codewars</a>, <a href="https://www.hackerrank.com/profile/mayannait">HackerRank</a>, <a href="https://tryhackme.com/p/mayannait">TryHackMe</a>, <a href="https://www.hackthebox.com/">HTB</a> e outras plataformas de estudo.</li>
+   <li> :floppy_disk: Envie sua dúvida sobre programação ou QA no <a href="https://stackoverflow.com/users/16884312/mayanna">StackOverflow</a> ou <a href="https://github.com/mayannaoliveira/mayannaoliveira/discussions">nessa página</a>.</li>
 </ul>
 
 </br>
 
-<!-- SKILLS EM PROGRAMAÇÃO -->
-<p align="center">
-<a href="https://skillicons.dev/">
-<img alt="programming" src="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8"/>
-</a>
-</p>
-</br>
+<!-- Skillicons https://skillicons.dev -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8&theme=light">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8">
+  <img alt="Fallback image description" src=" ">
+</picture>
+</div>
 
-<!-- REDES SOCIAIS -->
+
+
+<!-- Redes Sociais -->
 <h3> :handshake: Redes Sociais </h3>
 
 Para mais informações acesse a página com as minhas [redes sociais](social-media.md).
@@ -104,25 +116,23 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <!-- Estatísticas do GitHub -->
 <h3> :octocat: Estatísticas do GitHub </h3>
 
-<!-- Awesome GitHub Stats -->
+<!-- Cartões do GitHub -->
 <div class="row" align="center">
 <div class="column">
+<!-- https://awesome-github-stats.azurewebsites.net -->
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
+<!-- https://github-readme-stats.vercel.app -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayannaoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
 </div>
 </div>
 
 </br>
 
-<!-- GRÁFICO DO GITHUB -->
+<!-- Gráfico do GitHub -->
 <details close>
 <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
-
-
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-2. 💪 Opened PR [#5](https://github.com/xiaohuohumax/readme-widget-hub/pull/5) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-<!--END_SECTION:activity--> 
+<!--END_SECTION:activity-->
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
 </details>
@@ -195,24 +205,14 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </td>
 <td>Um tutorial passo a passo de como configurar o Codecov em um projeto Go. </br> A tutorial step by step how to config Codecov in a Go project.</td>
 </tr>
-<!-- Exemplos -->
-<!-- <tr>
-<td>111</td>
-<td>222</td>
-<td>333</td>
-</tr>
-<tr>
-<td>111</td>
-<td>222</td>
-<td>333</td>
-</tr> -->
+<!-- Adicionar mais linhas -->
 </tbody>
 </table>
-<sup> :world_map: If you have a open Source Project please, keep in touch with me by Discord because will be a pleasure join in the project and be part of your team. 
+<sup> :world_map: If you have a Open Source Project please, keep in touch with me by Discord because will be a pleasure join in the project and be part of your team. 
 </br> :world_map: Se você tem um projeto Open Source por favor, entre em contato comigo pelo Discord porque será um prazer fazer parte desse projeto e da sua equipe! </sup>
 </details>
 
-<!-- HOLOPIN -->
+<!-- Holopin -->
 <details close>
 <summary> <b> :t-rex: Holopin Badges </b> </summary>
 
@@ -221,30 +221,21 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </a>
 </details>
 
-<!-- DUOLINGO  -->
+<!-- Duolingo  -->
+<!-- https://github.com/centrumek/duolingo-readme-stats -->
 <details close>
 <summary> <b> :bird: Duolingo Stats</b> </summary>
 <div align="center">
 </br>
 <!--START_SECTION:duolingoStats-->
-<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
-
-| Username | Day Streak | Total XP |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> mayannait | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakfrozen.svg" height="12"> 8 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1342 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
-
-| Language | XP |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/french.svg" height="12"> French (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/portuguese.svg" height="12"> Portuguese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 1198 |
-
 <!--END_SECTION:duolingoStats-->
-
 </div>
 </details>
 
-<!-- GIT ANIMALS -->
+<!-- Git Animals -->
+<!-- https://www.gitanimals.org -->
 <details close>
-<summary> <b> :paw_prints: Git Animals Farm</b> </summary>
+<summary> <b> :paw_prints: Git Animals </b> </summary>
 
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=mayannaoliveira&utm_content=farm">
@@ -253,41 +244,29 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </div>
 </details>
 
-<!-- WAKATIME -->
+<!-- Wakatime -->
 <details close>
 <summary> <b> :clock1: Wakatime </b> </summary>
 <div align="center">
-
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://wakatime.com/@mayannaoliveira">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayannaoliveira&theme=dracula&layout=compact" alt="wakatime"/>
 </a>
 </br>
+<!-- https://wakatime.com -->
 <a href="https://wakatime.com/@cd4a8b69-f939-4fa3-a908-c3b12093052f">
 <img src="https://wakatime.com/badge/user/cd4a8b69-f939-4fa3-a908-c3b12093052f.svg" alt="Total time coded since Aug 1 2021"/>
 </a>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 </div>
 </details>
 
-<!-- My Badges - https://github.com/my-badges/my-badges -->
+<!-- My Badges -->
+<!-- https://github.com/my-badges/my-badges -->
 <details close>
 <summary><b>:name_badge: My Badges</b></summary>
 <div align="center">
-  
 <!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; once." title="I pushed a commit with &quot;dead&quot; once." width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 7 my own repositories." title="I&apos;ve starred 7 my own repositories." width="64"></a>
-<a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
-<a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <!-- my-badges end -->
 
 <sup>Emblemas do [My Badges](https://github.com/my-badges/my-badges).</sup>
@@ -296,7 +275,17 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 
 ---
 
-
 <p align="center"> Muito Obrigada a todas pessoas que visitaram meu perfil! 
 </br>
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Visitas%20no%20Perfil&color=red&style=for-the-badge" alt="mayannaoliveira" /> </p>
+
+---
+
+:house: <b> Clique aqui para voltar a [página inicial](README.md). </b>
+
+---
+
+<div align="center">
+<sup>O crédito de todas as badges e GitHub Actions estão <a href="badges-actions.md">nessa página</a>.</sup>
+</div>
