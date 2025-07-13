@@ -24,14 +24,8 @@
 <!-- Skillicons -->
 <!-- https://skillicons.dev -->
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,javascript,ruby,go,vscodium,ubuntu,bash,matlab,latex,mysql,cassandra,postgres,git,html,css&perline=8&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,javascript,ruby,go,vscodium,ubuntu,bash,matlab,latex,mysql,cassandra,postgres,git,html,css&perline=8&theme=dark">
-  <img alt="Fallback image description" src=" ">
-</picture>
+<img alt="skillicons" src="https://skillicons.dev/icons?i=python,django,javascript,ruby,go,vscodium,ubuntu,bash,matlab,latex,mysql,cassandra,postgres,git,html,css&perline=8&theme=dark"/>
 </div>
-
-
 
 <!-- Redes Sociais -->
 <h3> :handshake: Redes Sociais </h3>
