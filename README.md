@@ -21,11 +21,12 @@
 
 </br>
 
-<!-- Skillicons https://skillicons.dev -->
+<!-- Skillicons -->
+<!-- https://skillicons.dev -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8&theme=light">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,django,go,ruby,r,matlab,html,css,javascript,mongodb,postgres,mysql,cassandra,selenium,cypress,postman,linux,ubuntu,kali,bash,vscodium,npm,yarn,git&perline=8&theme=dark">
   <img alt="Fallback image description" src=" ">
 </picture>
 </div>
