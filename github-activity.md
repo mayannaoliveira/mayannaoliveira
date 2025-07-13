@@ -1,5 +1,5 @@
 <div align="center">
-<a href="README.md"> :home: Início</a>
+<a href="README.md"> :house: Início</a>
 <a href="social-media.md"> | :bust_in_silhouette: Redes Sociais</a>
 <a href="github-activity.md"> | :black_cat: Atividade no GitHub</a>
 <a href="credly-badges.md"> | :medal_military: Credly Badges</a>
