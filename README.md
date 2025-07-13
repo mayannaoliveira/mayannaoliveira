@@ -127,9 +127,7 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <details close>
 <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-2. 💪 Opened PR [#5](https://github.com/xiaohuohumax/readme-widget-hub/pull/5) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-3. 💪 Opened PR [#4](https://github.com/xiaohuohumax/readme-widget-hub/pull/4) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+
 <!--END_SECTION:activity-->
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
@@ -226,6 +224,7 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 <div align="center">
 </br>
 <!--START_SECTION:duolingoStats-->
+
 <!--END_SECTION:duolingoStats-->
 </div>
 </details>
