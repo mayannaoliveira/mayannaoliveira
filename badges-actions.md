@@ -10,9 +10,12 @@
 ## Créditos
 Obrigada a todos os desenvolvedores que brilhantemente criaram esse material maravilhoso que só enriquece nosso perfil.
 
+> [!NOTE]  
+> Thank you all developers how made these amazing cards, badges and GitHub Actions.
+
 ### Emblemas e Cartões
 
-- [shields.io](https://shields.io/)
+- [Shields.io](https://shields.io/)
 - [Skillicons](https://skillicons.dev)
 - [Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net)
 - [GitHub Readme Stats](https://github-readme-stats.vercel.app)
@@ -27,7 +30,7 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - [Developer Power Meter](https://stats.hyo.dev/en)
 - [Github Immortality ](https://github-immortality.vercel.app)
-
+- [Hackerrank Readme Stats](https://github.com/samba9274/hackerrank-readme-stats)
 
 ### GitHub Actions
 
@@ -35,9 +38,6 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Duolingo Stats](https://github.com/centrumek/duolingo-readme-stats)
 - [Readme Credly Badges](https://github.com/jd-35656/readme-credly-badges)
 - [My Badges](https://github.com/my-badges/my-badges)
-
-> [!NOTE]  
-> Thank you all developers how made these amazing cards, badges and GitHub Actions.
 
 ---
 
