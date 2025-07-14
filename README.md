@@ -227,8 +227,9 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 <div align="center">
 </br>
    
-   <!--START_SECTION:duolingoStats-->
-   <!--END_SECTION:duolingoStats-->
+<!--START_SECTION:duolingoStats-->
+
+<!--END_SECTION:duolingoStats-->
 
 </div>
 </details>
