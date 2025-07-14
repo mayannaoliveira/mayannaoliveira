@@ -220,20 +220,6 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 </a>
 </details>
 
-<!-- Duolingo  -->
-<!-- https://github.com/centrumek/duolingo-readme-stats -->
-<details close>
-<summary> <b> :bird: Duolingo Stats</b> </summary>
-<div align="center">
-
-<!--START_SECTION:duolingoStats-->
-<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
-
-<!--END_SECTION:duolingoStats-->
-
-</div>
-</details>
-
 <!-- Git Animals -->
 <!-- https://www.gitanimals.org -->
 <details close>
