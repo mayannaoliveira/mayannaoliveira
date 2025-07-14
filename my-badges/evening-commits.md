@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/ed85428b65fe24f9771bc488b9a5508a0330d172">ed85428</a>
+- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/85068c0df77f5d30295dd2249a077a9172fe3ef0">85068c0</a>
+- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/38a77498851545cf3f483659954b3da4d02ff8da">38a7749</a>
+- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/4a30858756510e1ea88724505b5248325862059f">4a30858</a>
 - <a href="https://github.com/mayannaoliveira/readme-widget-hub/commit/e9b1c29cbd51ee229261ac038be7051092a5730a">e9b1c29</a>
 - <a href="https://github.com/xiaohuohumax/readme-widget-hub/commit/e9b1c29cbd51ee229261ac038be7051092a5730a">e9b1c29</a>
-- <a href="https://github.com/mayannaoliveira/hackerearth-programming/commit/7111a4519b67d92ec69ebbab5425c4be94f3cd10">7111a45</a>
-- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/f4320bdb65acae1d5c0f150ff6bb3a1ccaedfe4f">f4320bd</a>
-- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/7e881dfa269d9f21baa02e1d726b843af46d29ee">7e881df</a>
-- <a href="https://github.com/mayannaoliveira/mayannaoliveira/commit/fd7bbab30e7094814218400647f58be90c3a94d9">fd7bbab</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
