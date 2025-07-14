@@ -225,9 +225,9 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 <details close>
 <summary> <b> :bird: Duolingo Stats</b> </summary>
 <div align="center">
-</br>
-   
+
 <!--START_SECTION:duolingoStats-->
+<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
 <!--END_SECTION:duolingoStats-->
 
