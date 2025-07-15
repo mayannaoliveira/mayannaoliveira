@@ -12,26 +12,22 @@ Estatísticas com minhas atividades e contribuições no GitHub.
 
 <!-- https://github.com/Jurredr/github-widgetbox --->
 #### :octocat: GitHub Widgetbox
-![github-widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon#gh-dark-mode-only)
-![github-widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=serika#gh-light-mode-only)
+![github-widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon)
 
 <!-- Repository Contribution Stats Card -->
 <!-- https://github.com/HwangTaehyun/github-repository-contribution-stats --->
 #### :octocat: Github Contributor Stats
-![github-contributor-stats](https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&theme=onedark#gh-dark-mode-only)
-![github-contributor-stats](https://github-contributor-stats.vercel.app/api?username=mayannaoliveira#gh-light-mode-only)
+![github-contributor-stats](https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&theme=onedark)
 
 <!-- GitHub Stats -->
 <!-- https://github-stats-alpha.vercel.app --->
 #### :octocat: GitHub Stats
-![github-stats-alpha](https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=32363e&tc=61afef&ic=e5c07b&bc=32363e#gh-dark-mode-only)
-![github-stats-alpha](https://github-stats-alpha.vercel.app/api?username=mayannaoliveira#gh-light-mode-only)
+![github-stats-alpha](https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=32363e&tc=61afef&ic=e5c07b&bc=32363e)
 
 <!-- Github Readme Activity Graph -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 #### :octocat: Github Readme Activity Graph
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=react#gh-dark-mode-only)
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira#gh-light-mode-only)
+![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=react)
 
 <!-- Developer Power Meter -->
 <!-- https://stats.hyo.dev/en -->
