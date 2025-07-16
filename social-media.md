@@ -9,7 +9,7 @@
 
 ## :space_invader: Redes Sociais 
 
-Esse são algumas plataformas online onde estou sempre estudando, me divertindo e buscando novos desafios.
+Essas são algumas plataformas online onde estou sempre estudando, me divertindo ou buscando novos desafios.
 
 <div align="center">
   <!-- Discord  -->
