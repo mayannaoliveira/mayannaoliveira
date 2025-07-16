@@ -65,46 +65,6 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <a href="https://stackoverflow.com/users/16884312/mayanna">
 <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
 </a>
-<!-- TryHackMe -->
-<a href="https://tryhackme.com/p/mayannait">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/mayannait" alt="tryhackme" />
-</a> 
-<!-- Hackthebox -->
-<a href="https://academy.hackthebox.com/">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=HackTheBox&logoColor=white&link=https://academy.hackthebox.com/" alt="Hack The Box"/>
-</a>
-<!-- Codewars -->
-<a href="https://www.codewars.com/users/mayannaoliveira">
-<img src="https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/mayannaoliveira" alt="Codewars"/>
-</a>
-<!-- Hackerrank -->
-<a href="https://www.hackerrank.com/profile/mayannait">
-<img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white"/>
-</a>
-<!-- CodeChef -->
-<a href="https://www.codechef.com/users/tower_boat_88">
-<img alt="codechef" src="https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=CodeChef&logoColor=white"/>
-</a>
-<!-- Leetcode -->
-<a href="https://leetcode.com/u/mayannait/">
-<img alt="leetcode" src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=flat&logo=LeetCode&logoColor=white"/>
-</a>
-<!-- HackerEarth -->
-<a href="https://www.hackerearth.com/@mayannait/">
-<img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-2C3454.svg?style=flat&logo=HackerEarth&logoColor=white"/>
-</a>
-<!-- Duolingo -->
-<a href="https://www.duolingo.com/profile/mayannait">
-<img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-58CC02.svg?style=flat&logo=Duolingo&logoColor=white"/>
-</a>
-<!-- Chess.com -->
-<a href="https://www.chess.com/member/mayannait">
-<img alt="chess.com" src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=flat&logo=chessdotcom&logoColor=white"/>
-</a>
-<!-- Lichess -->
-<a href="https://lichess.org/@/mayannait">
-<img alt="lichess" src="https://img.shields.io/badge/Lichess-000000.svg?style=flat&logo=Lichess&logoColor=white"/>
-</a>
 </p>
 
 
