@@ -1,3 +1,4 @@
+<a name="topo-pagina"></a>
 <div align="center">
 <a href="README.md"> :house: Início</a>
 <a href="social-media.md"> | :bust_in_silhouette: Redes Sociais</a>
@@ -241,7 +242,7 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 
 ---
 
-:house: <b> Clique aqui para voltar a [página inicial](README.md). </b>
+:house: <b> Clique aqui para voltar ao [topo da página](#topo-pagina). </b>
 
 ---
 
