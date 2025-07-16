@@ -198,6 +198,15 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
   </div>
 </details>
 
+<!-- Roadmap.sh -->
+<!-- https://roadmap.sh/ -->
+<details close>
+  <summary> <b> :bookmark_tabs: Roadmap.sh </b> </summary>
+  <div align="center">
+    <a href="https://roadmap.sh/u/mayanna"><img src="https://roadmap.sh/card/tall/65375f41035e8d1be72f88e7?variant=dark" alt="roadmap.sh"/></a>
+  </div>
+</details>
+
 ---
 
 :house: <b> Clique aqui para voltar a [página inicial](README.md). </b>
