@@ -7,38 +7,80 @@
 
 ---
 
-## :octocat: Atividades no GitHub.
-Estatísticas com minhas atividades e contribuições no GitHub.
-
+<!-- Github Widgetbox -->
 <!-- https://github.com/Jurredr/github-widgetbox --->
-#### :octocat: GitHub Widgetbox
-![github-widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon)
+<details close>
+  <summary> <b> :octocat: Atividades no GitHub </b> </summary>
+  <div align="center">
+	<img href="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon" alt="github-widgetbox">
+  </div>
+</details>
 
 <!-- Repository Contribution Stats Card -->
 <!-- https://github.com/HwangTaehyun/github-repository-contribution-stats --->
-#### :octocat: Github Contributor Stats
-![github-contributor-stats](https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&theme=onedark)
+<details close>
+  <summary> <b> :octocat: Github Contributor Stats </b> </summary>
+  <div align="center">
+	<img href="https://github-contributor-stats.vercel.app/api?username=mayannaoliveira&theme=onedark" alt="github-contributor-stats.vercel">
+  </div>
+</details>
 
 <!-- GitHub Stats -->
 <!-- https://github-stats-alpha.vercel.app --->
-#### :octocat: GitHub Stats
-![github-stats-alpha](https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=32363e&tc=61afef&ic=e5c07b&bc=32363e)
+<details close>
+  <summary> <b> :octocat: GitHub Stats </b> </summary>
+  <div align="center">
+	<img href="https://github-stats-alpha.vercel.app/api?username=mayannaoliveira&cc=32363e&tc=61afef&ic=e5c07b&bc=32363e" alt="github-stats-alpha">
+  </div>
+</details>
 
 <!-- Github Readme Activity Graph -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-#### :octocat: Github Readme Activity Graph
-![github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=react)
+<details close>
+  <summary> <b> :octocat: Github Readme Activity Graph </b> </summary>
+  <div align="center">
+	<img href="https://github-readme-activity-graph.vercel.app/graph?username=mayannaoliveira&theme=react" alt="github-readme-activity-graph">
+  </div>
+</details>
 
 <!-- Developer Power Meter -->
 <!-- https://stats.hyo.dev/en -->
-#### :octocat: GitHub Stats
-![mayannaoliveira github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira)
-![mayannaoliveira github-trophies](https://stats.dooboo.io/api/github-trophies?login=mayannaoliveira)
+<details close>
+  <summary> <b> :octocat: GitHub Stats </b> </summary>
+  <div align="center">
+	<img href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira" alt="github-stats">
+	</br>
+	<img href="https://stats.dooboo.io/api/github-trophies?login=mayannaoliveira" alt="github-trophies">
+  </div>
+</details>
 
 <!-- Github Immortality --->
 <!-- https://github-immortality.vercel.app --->
-#### :octocat: Github Immortality 
-![github-immortality](https://github-immortality.vercel.app/api?username=mayannaoliveira)
+<details close>
+  <summary> <b> :octocat: Github Immortality  </b> </summary>
+  <div align="center">
+	<img href="https://github-immortality.vercel.app/api?username=mayannaoliveira" alt="github-immortality.vercel">
+  </div>
+</details>
+
+<!-- Stats Cards Generator -->
+<!-- https://stats-cards.toil.cc/ -->
+<details close>
+  <summary> <b> :octocat: GitHub Activity 2025 </b> </summary>
+  <div align="center">
+	<img src="https://stats-cards.toil.cc/v1/activity/github?username=mayannaoliveira&theme=onedark-pro-flat&period=year&with_title=true" alt="2025" />
+  </div>
+</details>
+
+<!-- Stats Cards Generator -->
+<!-- https://stats-cards.toil.cc/ -->
+<details close>
+  <summary> <b> :octocat: GitHub Gists </b> </summary>
+  <div align="center">
+	<img src="https://stats-cards.toil.cc/v1/pin/gist?id=7939325b2dc052d861d1561268697dc3&theme=onedark-pro-flat&show_owner=true" alt="Pin (Gist)" />
+	<img src="https://stats-cards.toil.cc/v1/pin/gist?id=463dcbf8e3ebfd56f2cba7bd98430ffe&theme=onedark-pro-flat&show_owner=true" alt="Pin (Gist)" />
+  </div>
+</details>
 
 ---
 
