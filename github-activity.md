@@ -11,9 +11,11 @@
 <!-- https://github.com/Jurredr/github-widgetbox --->
 <details close>
 <summary> <b> :octocat: Atividades no GitHub </b> </summary>
-
+<div align="center">
+	
 ![github-widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon)
 
+</div>
 </details>
 
 <!-- Repository Contribution Stats Card -->
