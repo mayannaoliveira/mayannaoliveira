@@ -138,6 +138,7 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
     <a href="https://www.codewars.com/users/mayannaoliveira">
       <!-- https://github.com/DiniFarb/codewars_readme_stats -->
       <img alt="codewars" src="https://github.r2v.ch/codewars?user=mayannaoliveira&name=true&top_languages=true&stroke=white&theme=default" width="420"/>
+      </br>
       <!-- https://www.codewars.com -->
       <img alt="codewars" src="https://www.codewars.com/users/mayannaoliveira/badges/large" />
     </a>
@@ -203,7 +204,7 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
 <details close>
   <summary> <b> :bookmark_tabs: Roadmap.sh </b> </summary>
   <div align="center">
-    <a href="https://roadmap.sh/u/mayanna"><img src="https://roadmap.sh/card/tall/65375f41035e8d1be72f88e7?variant=dark" alt="roadmap.sh"/></a>
+    <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65375f41035e8d1be72f88e7?variant=dark" alt="roadmap.sh"/></a>
   </div>
 </details>
 
