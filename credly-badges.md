@@ -15,7 +15,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 
   <!-- START CREDLY BADGES -->
 [![Deploying and Evaluating GenAI Apps with MongoDB](https://images.credly.com/size/100x100/images/30544d11-edec-4ea2-849c-7bf742e101ef/blob)](https://www.credly.com/badges/8d0379d1-e00b-4550-96c0-c29d2bccbb00)
-[![MongoDB Advanced Schema Design Patterns and Antipatterns Skill Badge](https://images.credly.com/size/100x100/images/63848a8b-880e-46aa-b042-796faf1e911f/blob)](https://www.credly.com/badges/088b09df-66a9-403c-89c6-398867ca004d)
+[![MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/blob)](https://www.credly.com/badges/088b09df-66a9-403c-89c6-398867ca004d)
 [![Dremio Verified Data Analyst](https://images.credly.com/size/100x100/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob)](https://www.credly.com/badges/2325b0a6-e978-4cf9-895b-63fec926b837)
 [![Dremio Verified Lakehouse Associate](https://images.credly.com/size/100x100/images/12243391-8d11-4265-93b3-c82d8479f681/blob)](https://www.credly.com/badges/5c67306e-d2eb-4de7-9646-c22d15f2ff32)
 [![Kubernetes Admin Network Policy Shodan](https://images.credly.com/size/100x100/images/b38c2d4f-f4bb-4f8e-aa6c-d8c8b01529a2/blob)](https://www.credly.com/badges/6edf386b-789f-4a35-89ce-982883f46e69)
@@ -27,7 +27,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Celonis Process Management Foundations](https://images.credly.com/size/100x100/images/2d1c8afe-9345-4f79-9be8-d3294dc04957/image.png)](https://www.credly.com/badges/92d71d5b-16cf-4b93-b02e-e57c5428ea01)
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/04607180-489a-409d-8726-fdd30b675092)
 [![Certified Calico Operator - eBPF](https://images.credly.com/size/100x100/images/29307826-ca75-40dc-a588-66215c4d495c/image.png)](https://www.credly.com/badges/88c01253-6c6b-4c8d-9f79-6fef75e25e7d)
-[![MongoDB Schema Design Patterns and Antipatterns Skill Badge](https://images.credly.com/size/100x100/images/c0733ced-67e1-4f03-bc9d-5d1f2b7ac473/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
+[![MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/71a08fbf-178b-4342-9b17-a5239942846c/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
 [![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/100x100/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/b866c9c8-dba2-477d-8af6-ec46f9469e86)
 [![R Essentials](https://images.credly.com/size/100x100/images/14a1c1e0-f580-4034-a910-a33043d6af12/blob)](https://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5)
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/100x100/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](https://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf)
