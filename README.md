@@ -89,7 +89,7 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
    
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/samba9274/hackerrank-readme-stats/pull/3) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
+1. ❗ Opened issue [#135](https://github.com/maxam2017/productive-box/issues/135) in [maxam2017/productive-box](https://github.com/maxam2017/productive-box)
 2. 💪 Opened PR [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
 3. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
    <!--END_SECTION:activity-->
