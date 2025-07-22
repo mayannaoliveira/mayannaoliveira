@@ -95,7 +95,7 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
 
 <!-- Mayanna's SOCIAL MEDIA -->
 <details close>
-  <summary> <b> :speech_balloon: Dev Collab no Discord </b> </summary>
+  <summary> <b> :speech_balloon: Fale comigo pelo Discord </b> </summary>
   <div align="center">
     <!-- Discord https://github.com/Ezzud/github-readme-discord-card -->
     <a href="https://discordapp.com/users/728043170226503721" target="_blank">
