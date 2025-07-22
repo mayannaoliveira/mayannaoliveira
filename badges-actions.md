@@ -32,6 +32,7 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Github Immortality ](https://github-immortality.vercel.app)
 - [Hackerrank Readme Stats](https://github.com/samba9274/hackerrank-readme-stats)
 - [Roadmap.sh](https://roadmap.sh/)
+- [Discord Status Badge](https://github.com/zahtec/badges)
 
 ### GitHub Actions
 
