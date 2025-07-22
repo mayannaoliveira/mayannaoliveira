@@ -4,6 +4,14 @@
 <a href="github-activity.md"> | :black_cat: Atividade no GitHub</a>
 <a href="credly-badges.md"> | :medal_military: Credly Badges</a>
 </div>
+</br>
+<!-- GitHub Stats Terminal Style -->
+<!-- https://github.com/yogeshwaran01/github-stats-terminal-style -->
+<div align="center">
+<a href="https://github.com/yogeshwaran01/github-stats-terminal-style" target="_blank">
+<img src="https://github.com/mayannaoliveira/github-stats-terminal-style/blob/master/github_stats.svg" alt="terminal">
+</a>
+</div>
 
 ---
 
