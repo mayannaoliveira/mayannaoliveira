@@ -43,9 +43,9 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 <!-- - [Duolingo Stats](https://github.com/centrumek/duolingo-readme-stats) -->
 
 ### GitHub Gists
-- []()
-- []()
-- []()
+- [GHData](https://github.com/Zalbani/Gist_GHData)
+- [Date Box](https://github.com/kf-liu/date-box)
+- [GitHub Stats Box](https://github.com/bokub/github-stats-box)
 - []()
 - []()
 - []()
