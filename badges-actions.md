@@ -39,7 +39,18 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Github Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 - [Readme Credly Badges](https://github.com/jd-35656/readme-credly-badges)
 - [My Badges](https://github.com/my-badges/my-badges)
+- [GitHub Stats Terminal Style](https://github.com/yogeshwaran01/github-stats-terminal-style)
 <!-- - [Duolingo Stats](https://github.com/centrumek/duolingo-readme-stats) -->
+
+### GitHub Gists
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 
