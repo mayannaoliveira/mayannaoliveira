@@ -66,9 +66,6 @@
 <div align="center">
 
 ![mayannaoliveira github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira)
-
-</br>
-
 ![mayannaoliveira github-trophies](https://stats.dooboo.io/api/github-trophies?login=mayannaoliveira)
 
 </div>
