@@ -46,11 +46,25 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [GHData](https://github.com/Zalbani/Gist_GHData)
 - [Date Box](https://github.com/kf-liu/date-box)
 - [GitHub Stats Box](https://github.com/bokub/github-stats-box)
+- [Productive Box](https://github.com/maxam2017/productive-box)
+- [Waka Box](https://github.com/matchai/waka-box)
+- [Lang Box](https://github.com/inokawa/lang-box)
+- [Todoist Box]()
+- [LeetCode Box](https://github.com/puiiyuen/leetcode-box)
+- [Chess.com Box Py](https://github.com/sciencepal/chess-com-box-py)
+- [GitHub Activity Box](https://github.com/maxchang3/github-activity-box)
+- [GitHub Stats Box](https://github.com/bokub/github-stats-box)
+- [GitHub Lang Box](https://github.com/maxchang3/github-lang-box)
+- [Recent Language Box](https://github.com/liby/recent-languages-box)
 - []()
 - []()
 - []()
 - []()
 - []()
+- []()
+- []()
+
+
 
 ---
 
