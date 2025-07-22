@@ -89,9 +89,9 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
    
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2#issuecomment-3094683067) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
-2. ❗ Opened issue [#135](https://github.com/maxam2017/productive-box/issues/135) in [maxam2017/productive-box](https://github.com/maxam2017/productive-box)
-3. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+1. 💪 Opened PR [#1567](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1567) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2#issuecomment-3094683067) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
+3. ❗ Opened issue [#135](https://github.com/maxam2017/productive-box/issues/135) in [maxam2017/productive-box](https://github.com/maxam2017/productive-box)
    <!--END_SECTION:activity-->
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
