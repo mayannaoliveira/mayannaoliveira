@@ -16,6 +16,10 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
   <a href="https://discordapp.com/users/728043170226503721">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
   </a>
+<!-- Matrix Chat-->
+<a href="https://matrix.to/#/@mayannaoliveira:matrix.org?client=im.fluffychat" target="_blank">
+<img src="https://img.shields.io/badge/Matrix-000000.svg?style=flat&logo=Matrix&logoColor=white" alt="matrix">
+</a>
   <!-- Mastodon -->​
   <a href="https://mastodon.social/@mayannaoliveira">
     <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF.svg?style=flat&logo=Mastodon&logoColor=white"/>
