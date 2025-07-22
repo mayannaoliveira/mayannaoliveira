@@ -95,7 +95,7 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
 
 <!-- Mayanna's SOCIAL MEDIA -->
 <details close>
-  <summary> <b> :speech_balloon: Fale comigo pelo Discord </b> </summary>
+  <summary> <b> :speech_balloon: Fale Comigo </b> </summary>
   <div align="center">
     <!-- Discord https://github.com/Ezzud/github-readme-discord-card -->
     <a href="https://discordapp.com/users/728043170226503721" target="_blank">
@@ -119,6 +119,12 @@ Essas são algumas plataformas online onde estou sempre estudando, me divertindo
     <a href="https://www.reddit.com/user/player8800/" target="_blank">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/player8800">
     </a>
+</br>
+<sup>Veja se estou ou não no Discord agora:</sup>
+<!-- Discord On/Off -->
+<!-- https://github.com/zahtec/badges -->
+<a href="https://discordapp.com/users/728043170226503721" target="_blank">
+<img alt="Discord" src="https://badges.toryn.bio/discord/728043170226503721"></a>
   </div>
 </details>
 
