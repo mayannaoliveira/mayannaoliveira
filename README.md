@@ -123,7 +123,7 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/samba9274/hackerrank-readme-stats?style=flat&label=Stars">
 </td>
 <td>
-Meu primeiro bot do Discord feito somente por diversão. </br> My first Discord bot made in Python just for fun.</td>
+Um widget maravilhoso para seu perfil readme do GitHub. </br> An amazing widget to your readme profile in GitHub.</td>
 </tr>
 <!-- xiaohuohumax/readme-widget-hub -->
 <td>
