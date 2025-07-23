@@ -33,6 +33,7 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Hackerrank Readme Stats](https://github.com/samba9274/hackerrank-readme-stats)
 - [Roadmap.sh](https://roadmap.sh/)
 - [Discord Status Badge](https://github.com/zahtec/badges)
+- [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/)
 
 ### GitHub Actions
 
@@ -56,7 +57,6 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [GitHub Stats Box](https://github.com/bokub/github-stats-box)
 - [GitHub Lang Box](https://github.com/maxchang3/github-lang-box)
 - [Recent Language Box](https://github.com/liby/recent-languages-box)
-- [Codestats Box](https://github.com/Ancientwood/codestats-box)
 
 ---
 
