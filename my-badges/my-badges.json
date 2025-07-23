@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 292 times)\n2. readme.md (used 129 times)\n3. create (used 49 times)\n4. post: (used 31 times)\n5. readme (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 301 times)\n2. readme.md (used 131 times)\n3. create (used 49 times)\n4. post: (used 31 times)\n5. readme (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 15 my own repositories.",
-    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/journey-to-hackerank-python\">mayannaoliveira/journey-to-hackerank-python</a>\n- <a href=\"https://github.com/mayannaoliveira/chefcode-python\">mayannaoliveira/chefcode-python</a>\n- <a href=\"https://github.com/mayannaoliveira/oh-my-posh\">mayannaoliveira/oh-my-posh</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira\">mayannaoliveira/mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/readme-widget-hub\">mayannaoliveira/readme-widget-hub</a>\n- <a href=\"https://github.com/mayannaoliveira/hackerrank-readme-stats\">mayannaoliveira/hackerrank-readme-stats</a>\n- <a href=\"https://github.com/mayannaoliveira/todoist-box\">mayannaoliveira/todoist-box</a>\n- <a href=\"https://github.com/mayannaoliveira/covid-box\">mayannaoliveira/covid-box</a>\n- <a href=\"https://github.com/mayannaoliveira/github-stats-box\">mayannaoliveira/github-stats-box</a>\n- <a href=\"https://github.com/mayannaoliveira/lang-box\">mayannaoliveira/lang-box</a>\n- <a href=\"https://github.com/mayannaoliveira/leetcode-box\">mayannaoliveira/leetcode-box</a>\n- <a href=\"https://github.com/mayannaoliveira/quotebox\">mayannaoliveira/quotebox</a>\n- <a href=\"https://github.com/mayannaoliveira/date-box\">mayannaoliveira/date-box</a>",
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/awesome-github-profile-readme/commit/9fcd6da9fb52d81275ce4c543c9ac85b01b36e68\">9fcd6da</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/295b2de5a82dac04fdeeaa0fd43e27adf31aaa02\">295b2de</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/deba2b1472c3f4719640c62766fc8e4c061e9fde\">deba2b1</a>\n- <a href=\"https://github.com/mayannaoliveira/github-stats-box/commit/5075a714412b2a082086596a3b9531564acf177b\">5075a71</a>\n- <a href=\"https://github.com/mayannaoliveira/github-stats-box/commit/4737c1e40318347a03725d5c5318e58e6adf88d3\">4737c1e</a>\n- <a href=\"https://github.com/mayannaoliveira/date-box/commit/75a1dc2b81bbb375c6de06b6a3c05e58a10f6de2\">75a1dc2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/14f0fc0e0fb8e1daa6a202b1f14b4441a29767a8\">14f0fc0</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/75cc267002ceff0a0a22e792c7ca54bfdb6cf6f9\">75cc267</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/8d2ada0ac722aba008f4a4975f1ee59abe6f2175\">8d2ada0</a>\n- <a href=\"https://github.com/mayannaoliveira/awesome-github-profile-readme/commit/9fcd6da9fb52d81275ce4c543c9ac85b01b36e68\">9fcd6da</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/295b2de5a82dac04fdeeaa0fd43e27adf31aaa02\">295b2de</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/deba2b1472c3f4719640c62766fc8e4c061e9fde\">deba2b1</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
