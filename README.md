@@ -111,6 +111,20 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 </thead>
 <tbody>
 <tr>
+<!-- samba9274/hackerrank-readme-stats -->
+<tr>
+<td><a href="https://github.com/samba9274/hackerrank-readme-stats">
+<img src="https://img.shields.io/badge/hackerrank--readme--stats-181717.svg?style=flat&logo=GitHub&logoColor=white" alt="samba9274/hackerrank-readme-stats"/>
+</a>
+</td>
+<td>
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/samba9274/hackerrank-readme-stats?style=flat&label=Forks">
+</br>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/samba9274/hackerrank-readme-stats?style=flat&label=Stars">
+</td>
+<td>
+Meu primeiro bot do Discord feito somente por diversão. </br> My first Discord bot made in Python just for fun.</td>
+</tr>
 <!-- xiaohuohumax/readme-widget-hub -->
 <td>
 <a href="https://github.com/xiaohuohumax/readme-widget-hub">
