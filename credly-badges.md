@@ -14,6 +14,9 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 <div align="center">
 
   <!-- START CREDLY BADGES -->
+[![Introduction to Cognitive Project Management in AI (CPMAI)™](https://images.credly.com/size/100x100/images/f0256808-67db-4b2d-9bb8-2d2321b901a5/blob)](https://www.credly.com/badges/2e5513da-43f4-4adb-99ac-c56b29fd318a)
+[![LFEL1009: Getting Started with OpenTofu](https://images.credly.com/size/100x100/images/e05777b4-2eba-4421-9741-90547ac41d58/blob)](https://www.credly.com/badges/c862e727-dfd0-4275-9838-e7e03f9de6f9)
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/100x100/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/fe7515f9-a6ae-4ea8-b4ef-e3067e78b975)
 [![Deploying and Evaluating GenAI Apps with MongoDB](https://images.credly.com/size/100x100/images/30544d11-edec-4ea2-849c-7bf742e101ef/blob)](https://www.credly.com/badges/8d0379d1-e00b-4550-96c0-c29d2bccbb00)
 [![MongoDB Advanced Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/592afcf7-1323-4dc4-af0d-0c3cad726e95/blob)](https://www.credly.com/badges/088b09df-66a9-403c-89c6-398867ca004d)
 [![Dremio Verified Data Analyst](https://images.credly.com/size/100x100/images/dbf2afb0-977d-4080-aa60-c8b35e713583/blob)](https://www.credly.com/badges/2325b0a6-e978-4cf9-895b-63fec926b837)
