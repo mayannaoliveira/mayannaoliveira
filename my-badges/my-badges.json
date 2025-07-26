@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 304 times)\n2. readme.md (used 134 times)\n3. create (used 50 times)\n4. post: (used 31 times)\n5. readme (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 305 times)\n2. readme.md (used 135 times)\n3. create (used 50 times)\n4. post: (used 31 times)\n5. readme (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
+    "desc": "I've starred 15 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/journey-to-hackerank-python\">mayannaoliveira/journey-to-hackerank-python</a>\n- <a href=\"https://github.com/mayannaoliveira/chefcode-python\">mayannaoliveira/chefcode-python</a>\n- <a href=\"https://github.com/mayannaoliveira/oh-my-posh\">mayannaoliveira/oh-my-posh</a>\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira\">mayannaoliveira/mayannaoliveira</a>\n- <a href=\"https://github.com/mayannaoliveira/readme-widget-hub\">mayannaoliveira/readme-widget-hub</a>\n- <a href=\"https://github.com/mayannaoliveira/hackerrank-readme-stats\">mayannaoliveira/hackerrank-readme-stats</a>\n- <a href=\"https://github.com/mayannaoliveira/covid-box\">mayannaoliveira/covid-box</a>\n- <a href=\"https://github.com/mayannaoliveira/github-stats-box\">mayannaoliveira/github-stats-box</a>\n- <a href=\"https://github.com/mayannaoliveira/lang-box\">mayannaoliveira/lang-box</a>\n- <a href=\"https://github.com/mayannaoliveira/leetcode-box\">mayannaoliveira/leetcode-box</a>\n- <a href=\"https://github.com/mayannaoliveira/quotebox\">mayannaoliveira/quotebox</a>\n- <a href=\"https://github.com/mayannaoliveira/date-box\">mayannaoliveira/date-box</a>\n- <a href=\"https://github.com/mayannaoliveira/waka-box\">mayannaoliveira/waka-box</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
