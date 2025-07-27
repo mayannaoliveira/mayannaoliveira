@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 15 my own repositories." title="I&apos;ve starred 15 my own repositories." width="128">
-<strong>I&apos;ve starred 15 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 16 my own repositories." title="I&apos;ve starred 16 my own repositories." width="128">
+<strong>I&apos;ve starred 16 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/mayannaoliveira/student-pack">mayannaoliveira/student-pack</a>
@@ -17,6 +17,7 @@
 - <a href="https://github.com/mayannaoliveira/quotebox">mayannaoliveira/quotebox</a>
 - <a href="https://github.com/mayannaoliveira/date-box">mayannaoliveira/date-box</a>
 - <a href="https://github.com/mayannaoliveira/waka-box">mayannaoliveira/waka-box</a>
+- <a href="https://github.com/mayannaoliveira/my-badges">mayannaoliveira/my-badges</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
