@@ -35,6 +35,7 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 - [Roadmap.sh](https://roadmap.sh/)
 - [Discord Status Badge](https://github.com/zahtec/badges)
 - [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/)
+- [Starlines](https://github.com/qoomon/starlines)
 
 ### GitHub Actions
 
