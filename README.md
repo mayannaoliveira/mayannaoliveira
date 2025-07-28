@@ -1,3 +1,11 @@
+<!-- Starlines -->
+<!-- https://github.com/qoomon/starlines -->
+<div align="center">
+   <a href="https://github.com/mayannaoliveira">
+<img alt="starlines" src="https://starlines.qoo.monster/assets/mayannaoliveira/mayannaoliveira"/>
+      </a>
+</div>
+
 <a name="topo-pagina"></a>
 <div align="center">
 <a href="README.md"> :house: Início</a>
