@@ -15,6 +15,8 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 <div align="center">
 
   <!-- START CREDLY BADGES -->
+[![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/100x100/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob)](https://www.credly.com/badges/aea14471-d0c7-4a12-8ef8-a2a594f64c9b)
+[![LFEL1002: Getting Started with Rust](https://images.credly.com/size/100x100/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob)](https://www.credly.com/badges/59b90bbf-d77a-4509-90ae-b44f04dea162)
 [![Introduction to Cognitive Project Management in AI (CPMAI)™](https://images.credly.com/size/100x100/images/f0256808-67db-4b2d-9bb8-2d2321b901a5/blob)](https://www.credly.com/badges/2e5513da-43f4-4adb-99ac-c56b29fd318a)
 [![LFEL1009: Getting Started with OpenTofu](https://images.credly.com/size/100x100/images/e05777b4-2eba-4421-9741-90547ac41d58/blob)](https://www.credly.com/badges/c862e727-dfd0-4275-9838-e7e03f9de6f9)
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/100x100/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](https://www.credly.com/badges/fe7515f9-a6ae-4ea8-b4ef-e3067e78b975)
@@ -31,8 +33,8 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Celonis Process Management Foundations](https://images.credly.com/size/100x100/images/2d1c8afe-9345-4f79-9be8-d3294dc04957/image.png)](https://www.credly.com/badges/92d71d5b-16cf-4b93-b02e-e57c5428ea01)
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/04607180-489a-409d-8726-fdd30b675092)
 [![Certified Calico Operator - eBPF](https://images.credly.com/size/100x100/images/29307826-ca75-40dc-a588-66215c4d495c/image.png)](https://www.credly.com/badges/88c01253-6c6b-4c8d-9f79-6fef75e25e7d)
-[![MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/71a08fbf-178b-4342-9b17-a5239942846c/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
 [![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/100x100/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/b866c9c8-dba2-477d-8af6-ec46f9469e86)
+[![MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/71a08fbf-178b-4342-9b17-a5239942846c/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
 [![R Essentials](https://images.credly.com/size/100x100/images/14a1c1e0-f580-4034-a910-a33043d6af12/blob)](https://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5)
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/100x100/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](https://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf)
 [![Lifelong Learning](https://images.credly.com/size/100x100/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/50d4b21c-f790-4450-a03c-6ea5d7bbc1c1)
