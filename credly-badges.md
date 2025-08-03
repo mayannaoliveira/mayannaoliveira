@@ -15,6 +15,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 <div align="center">
 
   <!-- START CREDLY BADGES -->
+[![Lifelong Learning 2025](https://images.credly.com/size/100x100/images/1f70513f-98d2-4b61-b8d7-c509b9090478/blob)](https://www.credly.com/badges/e753a262-2d05-402c-b36b-4b8b95ba956d)
 [![LFD102: A Beginner's Guide to Open Source Software Development](https://images.credly.com/size/100x100/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob)](https://www.credly.com/badges/aea14471-d0c7-4a12-8ef8-a2a594f64c9b)
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/100x100/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob)](https://www.credly.com/badges/59b90bbf-d77a-4509-90ae-b44f04dea162)
 [![Introduction to Cognitive Project Management in AI (CPMAI)™](https://images.credly.com/size/100x100/images/f0256808-67db-4b2d-9bb8-2d2321b901a5/blob)](https://www.credly.com/badges/2e5513da-43f4-4adb-99ac-c56b29fd318a)
