@@ -97,9 +97,9 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 <summary> <b> :octocat: Atividades Recentes no GitHub </b> </summary>
    
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Chhunneng/programming-starters-project/pull/31) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-2. 💪 Opened PR [#1300](https://github.com/Difegue/LANraragi/pull/1300) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
-3. 🗣 Commented on [#135](https://github.com/maxam2017/productive-box/issues/135#issuecomment-3102708965) in [maxam2017/productive-box](https://github.com/maxam2017/productive-box)
+1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-3197253559) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 💪 Opened PR [#31](https://github.com/Chhunneng/programming-starters-project/pull/31) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+3. 💪 Opened PR [#1300](https://github.com/Difegue/LANraragi/pull/1300) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
    <!--END_SECTION:activity-->
 
 <sub>:bar_chart: Para mais informações gráficas acesse minha página de [Atividades do GitHub](github-activity.md).</sub>
