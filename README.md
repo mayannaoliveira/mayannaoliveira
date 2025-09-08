@@ -107,7 +107,7 @@ Para mais informações acesse a página com as minhas [redes sociais](social-me
 
 <!-- Trabalhando nos Projetos -->
 <details close>
-<summary> <b> :octocat: Projetos no GitHub </b> </summary>
+<summary> <b> :globe_with_meridians: Colaborações e Projetos </b> </summary>
 
 <table>
 <thead>
@@ -147,6 +147,40 @@ Um widget maravilhoso para seu perfil readme do GitHub. </br> An amazing widget 
 <td> Coleção de vários emblemas e cartões de estatísticas de fácil integração nos arquivos README. </br>
 Collect various interesting badges and status cards for easy integration into README files.</td>
 </tr>
+<!-- Pirate Solitaire by Victor Pernet -->
+<!-- https://f-droid.org/pt_BR/packages/io.itch.pirate_solitaire -->
+<tr>
+<td><a href='https://f-droid.org/pt_BR/packages/io.itch.pirate_solitaire/' target="_blank"><img alt='f-droid' src='https://img.shields.io/badge/Pirate_Solitaire-100000?style=flat&logo=f-droid&logoColor=white&labelColor=1976d2&color=1976d2'/></a></td>
+<td>
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/Pheonyxior/Pirate-Solitaire-Git-Repo?style=flat">
+</br>
+<img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/Pheonyxior/Pirate-Solitaire-Git-Repo?style=flat">
+</td>
+<td>Translation (English to Portuguese) of the game Pirate Solitaire, developer by Victor Pernet and avaliable in F-Droid. </br>Tradução de inglês para português do jogo Pirate Solitaire, desenvolvido por Victor Pernet e disponível no F-Droid F-Droid.</td>
+</tr>
+<!-- Poker Dungeon : Joker's Madness -->
+<!-- https://store.steampowered.com/app/2946260/Poker_Dungeon__Jokers_Madness/ -->
+<tr>
+<td><a href='https://store.steampowered.com/app/2946260/Poker_Dungeon__Jokers_Madness/' target="_blank"><img alt='steam' src='https://img.shields.io/badge/Poker_Dungeon-100000?style=flat&logo=steam&logoColor=white&labelColor=181717&color=181717'/></a></td>
+<td>
+<a href='https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fdiscord.gg%2FTeJYQZtmER' target="_blank"><img alt='discord' src='https://img.shields.io/badge/Discord-100000?style=flat&logo=discord&logoColor=white&labelColor=5865f2&color=5865f2'/></a>
+</br>
+<a href='https://calculus2.itch.io/pokerdungeon' target="_blank"><img alt='itchdotio' src='https://img.shields.io/badge/itch.io-100000?style=flat&logo=itchdotio&logoColor=white&labelColor=fa5c5c&color=fa5c5c'/></a>
+</td>
+<td>Translation (English to Portuguese) of the game Poker Dungeon that is avaliable in Steam and Itch.io. </br>Tradução de inglês para português do jogo Poker Dungeon que está disponível no Steam e no Itch.io.</td>
+</tr>
+<!-- Difegue \ LANraragi -->
+<!-- https://github.com/Difegue/LANraragi -->
+<tr>
+<td><a href='https://github.com/Difegue/LANraragi' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/LANraragi-100000?style=flat&logo=GitHub&logoColor=white&labelColor=181717&color=181717'/></a></td>
+<td>
+<img alt="GitHub Forks" src="https://img.shields.io/github/forks/Difegue/LANraragi?style=flat-square">
+</br>
+<img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/Difegue/LANraragi?style=flat-square">
+</td>
+<td>I colaborated as translator in this Open source server for archival of comics/manga. </br>Eu colaborei como tradutora nesse servidor Open Source para arquivar quadrinhos/mangá.</td>
+</tr>
+
 <!-- mayannaoliveira/Discord-Bot -->
 <tr>
 <td><a href="https://github.com/mayannaoliveira/Discord-Bot">
