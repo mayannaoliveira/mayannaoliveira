@@ -17,6 +17,8 @@ Obrigada a todos os desenvolvedores que brilhantemente criaram esse material mar
 ### Emblemas e Cartões
 
 - [Shields.io](https://shields.io/)
+- [Github Badge Generator](https://kapasia-dev-ed.my.site.com/Badges4Me/s/)
+- [Badge Generator](https://markdown-badge-generator.streamlit.app/)
 - [Skillicons](https://skillicons.dev)
 - [Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net)
 - [GitHub Readme Stats](https://github-readme-stats.vercel.app)
