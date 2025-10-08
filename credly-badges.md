@@ -36,7 +36,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Certified Calico Operator - eBPF](https://images.credly.com/size/100x100/images/29307826-ca75-40dc-a588-66215c4d495c/image.png)](https://www.credly.com/badges/88c01253-6c6b-4c8d-9f79-6fef75e25e7d)
 [![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/100x100/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/b866c9c8-dba2-477d-8af6-ec46f9469e86)
 [![MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/71a08fbf-178b-4342-9b17-a5239942846c/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
-[![R Essentials](https://images.credly.com/size/100x100/images/14a1c1e0-f580-4034-a910-a33043d6af12/blob)](https://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5)
+[![R for Data Science](https://images.credly.com/size/100x100/images/baabff6f-1af4-4850-8036-e2d6787db9ec/blob)](https://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5)
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/100x100/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](https://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf)
 [![Lifelong Learning](https://images.credly.com/size/100x100/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](https://www.credly.com/badges/50d4b21c-f790-4450-a03c-6ea5d7bbc1c1)
 [![Python for Data Science](https://images.credly.com/size/100x100/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](https://www.credly.com/badges/6c1fbf57-b2d7-4b59-8179-995a3a39491a)
