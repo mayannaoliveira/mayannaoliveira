@@ -42,13 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
