@@ -284,7 +284,6 @@ Eu gosto de desenvolver minhas habilidades resolvendo desafios no HackerRank, re
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/yeti.md"><img src="https://my-badges.github.io/my-badges/yeti.png" alt="I found the yeti!" title="I found the yeti!" width="64"></a>
 <a href="my-badges/star-gazer.md"><img src="https://my-badges.github.io/my-badges/star-gazer.png" alt="I&apos;m a star gazer!" title="I&apos;m a star gazer!" width="64"></a>
-<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 2 my own repositories." title="I&apos;ve starred 2 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
 <sup>Emblemas do [My Badges](https://github.com/my-badges/my-badges).</sup>
