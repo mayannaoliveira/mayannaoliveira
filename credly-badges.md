@@ -29,7 +29,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Chainguard AI/ML Guardian](https://images.credly.com/size/100x100/images/5750aba6-98f3-43dd-b2d0-3d5a5d11edfd/blob)](https://www.credly.com/badges/d7eb4b91-8394-4f50-9c05-76dd2583ae52)
 [![Chainguard Vulnslayer](https://images.credly.com/size/100x100/images/72b653fc-36a6-4dd3-8dc4-c73caa564f77/blob)](https://www.credly.com/badges/940776fe-5cb6-4844-bc71-37a47975da11)
 [![Chainguard Container Crusader](https://images.credly.com/size/100x100/images/a4305115-691b-428b-a02a-201a0400e684/blob)](https://www.credly.com/badges/5f1060f8-b4a2-4851-a0e7-c5656cdd64c7)
-[![Kong Gateway Operations for KIC](https://images.credly.com/size/100x100/images/c7bdb851-3ad4-4770-b6e0-1e135f42c246/blob)](https://www.credly.com/badges/868c7652-e608-4cc0-bb51-c5c5eb8ca5fa)
+[![Kong Gateway Operations for KIC](https://images.credly.com/size/100x100/images/a9ce32fa-2e11-4b89-b8c7-3f3b615c713a/blob)](https://www.credly.com/badges/868c7652-e608-4cc0-bb51-c5c5eb8ca5fa)
 [![Use and Interpret Views](https://images.credly.com/size/100x100/images/8480091e-745d-4676-8d41-0372eb9931e5/blob)](https://www.credly.com/badges/72b1e64f-38f2-49b1-aac9-bd502ce874b4)
 [![Celonis Process Management Foundations](https://images.credly.com/size/100x100/images/2d1c8afe-9345-4f79-9be8-d3294dc04957/image.png)](https://www.credly.com/badges/92d71d5b-16cf-4b93-b02e-e57c5428ea01)
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/04607180-489a-409d-8726-fdd30b675092)
