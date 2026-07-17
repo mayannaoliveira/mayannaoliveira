@@ -75,5 +75,12 @@
     "desc": "I found the yeti!",
     "body": "Commits:\n\n- <a href=\"https://github.com/mayannaoliveira/mayannaoliveira/commit/f5d0297bf7ac2615a19f12d6c3d2311e0cd44111\">f5d0297</a>",
     "image": "https://my-badges.github.io/my-badges/yeti.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/mayannaoliveira/student-pack\">mayannaoliveira/student-pack</a>\n- <a href=\"https://github.com/mayannaoliveira/old-mayannaoliveira\">mayannaoliveira/old-mayannaoliveira</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
