@@ -34,7 +34,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Celonis Process Management Foundations](https://images.credly.com/size/100x100/images/2d1c8afe-9345-4f79-9be8-d3294dc04957/image.png)](https://www.credly.com/badges/92d71d5b-16cf-4b93-b02e-e57c5428ea01)
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/100x100/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](https://www.credly.com/badges/04607180-489a-409d-8726-fdd30b675092)
 [![Certified Calico Operator - eBPF](https://images.credly.com/size/100x100/images/29307826-ca75-40dc-a588-66215c4d495c/image.png)](https://www.credly.com/badges/88c01253-6c6b-4c8d-9f79-6fef75e25e7d)
-[![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/100x100/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/b866c9c8-dba2-477d-8af6-ec46f9469e86)
+[![From Relational Model (SQL) to MongoDBs Document Model](https://images.credly.com/size/100x100/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/b866c9c8-dba2-477d-8af6-ec46f9469e86)
 [![MongoDB Schema Design Patterns and Anti-patterns Skill Badge](https://images.credly.com/size/100x100/images/71a08fbf-178b-4342-9b17-a5239942846c/blob)](https://www.credly.com/badges/c7d1abaa-36ee-46d5-86e9-4ab8ffd2b204)
 [![R for Data Science](https://images.credly.com/size/100x100/images/baabff6f-1af4-4850-8036-e2d6787db9ec/blob)](https://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5)
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/100x100/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](https://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf)
