@@ -45,7 +45,7 @@ Cursos realizados onde as badges foram registradas no Credly[^1].
 [![Introduction to Data Science](https://images.credly.com/size/100x100/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/2f9a56fc-fb07-4a95-b566-16b3386d2bb0)
 [![Introducing SAP Cloud Identity Services - Record of Achievement](https://images.credly.com/size/100x100/images/2e4ec64c-caf6-4830-8cb7-116b1b1fb148/blob)](https://www.credly.com/badges/096182da-a881-4c14-b0c5-4f201e2fdb4a)
 [![Introduction to Cybersecurity](https://images.credly.com/size/100x100/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/08297a6f-c74c-42b0-a027-5d6eddae7f6b)
-[![Using SAP Service Cloud - Record of Achievement](https://images.credly.com/size/100x100/images/e2e22385-072e-445c-b3e8-c671f5d4df6a/image.png)](https://www.credly.com/badges/3a5891cc-38e3-4ca8-99bd-f65f23237172)
+[![Using SAP Service Cloud - Record of Achievement](https://images.credly.com/size/100x100/images/e2e22385-072e-445c-b3e8-c671f5d4df6a/image.png)](https://www.credly.com/badges/0e646711-c4db-42cc-960f-9527f04d360a)
 [![Discovering SAP Sales Cloud - Record of Achievement](https://images.credly.com/size/100x100/images/c13b43b2-b541-447a-80b6-cceaea41f70c/image.png)](https://www.credly.com/badges/7432901d-f747-4168-baec-12f3c854d383)
 [![Data Analysis Using Python](https://images.credly.com/size/100x100/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob)](https://www.credly.com/badges/0df4cec0-9087-441b-bc64-abafd664993f)
 [![Data Science with Scala](https://images.credly.com/size/100x100/images/31161e97-2afe-4b28-9a63-0fc788de0f69/blob)](https://www.credly.com/badges/c4f51279-4c7c-48dc-9665-98afe8e6cc4e)
